@@ -1,0 +1,955 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A godlie treatise of the Church. Written by Robert Some..</title>
+            <author>Some, Robert, 1542-1609.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1582-1583?</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 138 KB of XML-encoded text transcribed from 61 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B08102</idno>
+            <idno type="OCLC"> 82475339</idno>
+            <idno type="STC">STC 22910</idno>
+            <idno type="STC">ESTC S95257</idno>
+            <idno type="EEBO-CITATION">82475339</idno>
+            <idno type="OCLC">ocm 82475339</idno>
+            <idno type="VID">185171</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B08102)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 185171)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 2255:22)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A godlie treatise of the Church. Written by Robert Some..</title>
+                  <author>Some, Robert, 1542-1609.</author>
+               </titleStmt>
+               <extent>[120] p.   </extent>
+               <publicationStmt>
+                  <publisher>Impensis Geor. Bishop.,</publisher>
+                  <pubPlace>Londini :</pubPlace>
+                  <date>1582..</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Title within border of printer's ornaments, with the initials 'T D' in the lower inside corners; initials.</note>
+                  <note>Colophon: Imprinted at London at the three Cranes in the Vintree by Thomas Dawson for George Bishop. 1583.</note>
+                  <note>"You shall finde in the ende of this booke, A treatise against oppression."--t.p.</note>
+                  <note>Second part has half-title, " A godlie and shorte treatise, against the foule and grosse sinne of oppression", and running title, "A godlie treatise against oppression".</note>
+                  <note>Imperfect: tightly bound, stained, and with print show-through.</note>
+                  <note>Reproduction of original in: Peterborough Cathedral Library (deposited at University of Cambridge).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-11</date>
+            <label>Colm MacCrossan</label>Sampled and proofread</change>
+         <change>
+            <date>2012-11</date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <group>
+         <text xml:lang="eng">
+            <front>
+               <div type="title_page">
+                  <pb facs="tcp:185171:1"/>
+                  <pb facs="tcp:185171:1" rendition="simple:additions"/>
+                  <p>¶ A Godlie Trea<g ref="char:EOLhyphen"/>tiſe of the Church. Written by Robert Some.</p>
+                  <q>The Lord added to the Church from day to day, ſuch as ſhould be ſaued. <bibl>Act. <hi>2.</hi> ver. <hi>47.</hi>
+                     </bibl>
+                  </q>
+                  <p>
+                     <hi>You ſhall finde in the ende of</hi> this booke, a Treatiſe <hi>a<g ref="char:EOLhyphen"/>gainſt Oppresſion.</hi>
+                  </p>
+                  <p>LONDINI Impenſis Geor. Biſhop. 1582.</p>
+               </div>
+               <div type="dedication">
+                  <pb facs="tcp:185171:2" rendition="simple:additions"/>
+                  <pb facs="tcp:185171:2"/>
+                  <head>¶ To the right Honou<g ref="char:EOLhyphen"/>rable <hi>Sir Francis Walſin<g ref="char:EOLhyphen"/>gham</hi> knight, principal Secretarie to her excellent Maieſtie, and one of her <hi>highneſſe priuie Counſell: Robert</hi> Some wiſheth increaſe of Gods giftes by Ieſus Chriſt.</head>
+                  <p>
+                     <seg rend="decorInit">I</seg>T pleaſed your Ho<g ref="char:EOLhyphen"/>nour to fauour me both at, and ſince my wayting on my Lord and mai<g ref="char:EOLhyphen"/>ſter, the Earle of Leyceſter in the Courte, I doe not forget your goodnes to me, and I thanke God very heartily, for your Honourable both care of, and affe<g ref="char:EOLhyphen"/>ction to Gods Churche and religi<g ref="char:EOLhyphen"/>on. It is very cleere, that many are as friendlye to Gods trueth and Church, as the Eaſt winde is to the fruites of the earth: I neede not re<g ref="char:EOLhyphen"/>member
+<pb facs="tcp:185171:3"/> particulers, for there are ſo greate ſtore, and (as it were) ſwarmes of ſuch, that if almighty GOD did not bridle them, as hee did Sanballat, the Arrabians, and the Ammonites in Nehemias time, and rayſe vp excellent perſonages for the rearing vp of his Churche nowe, as hee did Ezra, Nehemi<g ref="char:EOLhyphen"/>as, Zorobabel, and Iehoſhua, af<g ref="char:EOLhyphen"/>ter the captiuitie of Babylon, Gods Church ſhoulde goe to wracke, and Religion ſhoulde bee handeled like a ward. But Gods Church is aliue, (thankes bee to GOD) howſoe<g ref="char:EOLhyphen"/>uer wicked men doe make it eyther a faire marke to ſhoote at, or a dead carcaſe to feede vppon, and will outliue and outcountenance all eni<g ref="char:EOLhyphen"/>mies whatſoeuer. Almightie God to that ende hath bleſſed this noble Land in our time with an excellente Prince of our owne nation, (as he
+<pb facs="tcp:185171:3"/> did the Iewes with Zorobabel af<g ref="char:EOLhyphen"/>ter the captiuitie) and with ma<g ref="char:EOLhyphen"/>nye notable perſonages vnder her Highneſſe (as hee did the Iſraelites with Eliachim vnder Ezechias the king of Iuda.) Amongeſt whiche excellent perſonages, becauſe your Honours place is greate in reſpect of the truſt whiche is committed to you, and that GOD hath moued you to fauour mee, I doe preſent vnto you theſe my Treatiſes of the Churche, and againſt Oppreſſion, as a ſure argument of my duetifull mynde. My meaning is not to ſet downe the ſeuerall poyntes of this Booke, it were a needeleſſe labour, and you haue it in your handes to reade at your good pleaſure and lea<g ref="char:EOLhyphen"/>ſure.</p>
+                  <p>Thus with my heartie pray<g ref="char:EOLhyphen"/>er to Almightye GOD for the in<g ref="char:EOLhyphen"/>creaſe of his good giftes in your
+<pb facs="tcp:185171:4"/> Honour, I take my leaue in moſt humble manner.</p>
+                  <closer>
+                     <dateline>At Queenes col<g ref="char:EOLhyphen"/>ledge in Cambridge <date>the firſt of Nouember. 1582.</date>
+                     </dateline>
+                     <signed>Your Honours <hi>to commaund</hi> Robert Some.</signed>
+                  </closer>
+               </div>
+               <div type="to_the_reader">
+                  <pb facs="tcp:185171:4"/>
+                  <head>To the Reader.</head>
+                  <p>IF my Treatiſe of the Sacramentes founde grace with you (as I heare it hath) I preſume theſe of the Church, and againſt Oppresſion, ſhall: for they haue more variety in them, by rea<g ref="char:EOLhyphen"/>ding this booke, you ſhall finde it ſo. I haue not as yet written any thing of the Scrip<g ref="char:EOLhyphen"/>ture and Confesſion, but hereafter I will according to my promiſe by the grace of God, to whoſe merciful protection I com<g ref="char:EOLhyphen"/>mend both you and my ſelfe.</p>
+                  <closer>
+                     <signed>Robert Some.</signed>
+                  </closer>
+               </div>
+               <div type="preface">
+                  <pb facs="tcp:185171:5"/>
+                  <head>
+                     <hi>Jf any either haue or doe</hi> ſpoile the Church or Churchmen of their maintenance, I referre them to <hi>this which immediatly followes, and</hi> to the fourth Propoſition in my Treatiſe of the Church, and to my whole Trea<g ref="char:EOLhyphen"/>tiſe againſt Op<g ref="char:EOLhyphen"/>preſſion.</head>
+                  <p>
+                     <note place="margin">Mich. 2. Iere. 5</note>
+                     <seg rend="decorInit">I</seg>T is a groſſe ſin to grind the faces of others, and to ſpoile them of that they haue: Gods iudgementes againſt Oppreſſio<g ref="char:cmbAbbrStroke">̄</g>, doe ſuf<g ref="char:EOLhyphen"/>ficiently proue this. But to robbe the church, and Churchmen is a fowler ſinne, and will haue greater ven<g ref="char:EOLhyphen"/>geaunce from almightie God. Is there any calling vnder heauen, that pleaſeth God more, and doth greater ſeruice in a Chriſtian kingdome, then the noble eſtate of the miniſterie? Are they not the Lordes Embaſſadours,<note place="margin">Malach. 2. Mat. 5. <hi>1.</hi> Cor. 4. Ephe. 4. 2. King. 2.</note> the ſalte of the earth, the light of the worlde, the diſpen<g ref="char:EOLhyphen"/>ſers of Gods myſteries, the buylders of Gods Church, and the charriot &amp; horſeme<g ref="char:cmbAbbrStroke">̄</g>
+                     <pb facs="tcp:185171:5"/> (as Elizeus ſaid of Elias) of a Chriſtian kingdome? If they be ſo, &amp; that by their ſound preaching,<note place="margin">Luke 10.</note> Sathan falles downe from heauen like lightning, &amp; y<hi rend="sup">e</hi> walles of Ieruſalem are built vp, is it not moſt e<g ref="char:EOLhyphen"/>qual, y<hi rend="sup">t</hi> they ſhoulde not bee robbed of the churches maintena<g ref="char:cmbAbbrStroke">̄</g>ce, which belongeth of dutie vnto the<g ref="char:cmbAbbrStroke">̄</g>? Is is not a certaine truth, &amp; in y<hi rend="sup">e</hi> eyes of all men, that many in vp<g ref="char:EOLhyphen"/>landiſh &amp; incorporate townes doe open their purſes very willingly, &amp; bou<g ref="char:cmbAbbrStroke">̄</g>tifully (for me<g ref="char:cmbAbbrStroke">̄</g> of their place) for the maintena<g ref="char:cmbAbbrStroke">̄</g>ce of godly preachers, &amp; doth not almightie God, beſides y<hi rend="sup">e</hi> heauenly co<g ref="char:cmbAbbrStroke">̄</g>fort he giues the<g ref="char:cmbAbbrStroke">̄</g>, repay thoſe good me<g ref="char:cmbAbbrStroke">̄</g> with increaſe of earthly co<g ref="char:cmbAbbrStroke">̄</g>modities? Doth almighty God like of this Chriſtian dealing? &amp; do godly men both iuſtly &amp; greatly co<g ref="char:cmbAbbrStroke">̄</g>mend it: and wil not graceleſſe Cormorants be aſha<g ref="char:EOLhyphen"/>med, which in ſteed of helping the Lords plough forward, ha<g ref="char:cmbAbbrStroke">̄</g>g it vpo<g ref="char:cmbAbbrStroke">̄</g> the hedge, by making foule hauock of y<hi rend="sup">e</hi> churches main<g ref="char:EOLhyphen"/>tena<g ref="char:cmbAbbrStroke">̄</g>ce? If theſe which either haue or doe feed vpo<g ref="char:cmbAbbrStroke">̄</g> y<hi rend="sup">e</hi> church, (as the eagle doth vpo<g ref="char:cmbAbbrStroke">̄</g> the carrion) did ſee the goodly companie of ſtudents in Cambridge and Oxeforde, or coulde conſider what ſharpe wittes,
+<pb facs="tcp:185171:6"/> and excelle<g ref="char:cmbAbbrStroke">̄</g>t learning &amp; vertues almigh<g ref="char:EOLhyphen"/>tie GOD hath geuen to many of them, or woulde bee moued with the ſight of thoſe holy aſſe<g ref="char:cmbAbbrStroke">̄</g>blies, wherin Gods trueth is ſoundly taught, and his people ſingu<g ref="char:EOLhyphen"/>larly comforted, would they not conde<g ref="char:cmbAbbrStroke">̄</g>ne their vile courſe, and be heartily ſory for their monſtrous dealings? If this I haue already reme<g ref="char:cmbAbbrStroke">̄</g>bred will not mollifie and bend their hearts, then let them caſt their eyes vpon many Churches in this noble lande, which eyther want the preaching of the word, or if they haue it, they haue it ſtrawberie wiſe, that is, once a yeere: let them I ſay, looke vpon the wofull eſtate of thoſe places, and if they be not hewen out of Okes, and haue heartes of flint, it will breake them in pieces. If anſweare be made, that a ſufficient number of prea<g ref="char:EOLhyphen"/>chers cannot be had to furniſh the whole lande, I graunt they ſay ſomewhat: but ſure I am, that if very fit men in the vni<g ref="char:EOLhyphen"/>uerſities &amp; abroade, were heartened and employed accordingly, many ſhould not be drowned in ignorance and poperie as they are, and many treacheries againſt y<hi rend="sup">e</hi> religion and Prince, would more eaſilie
+<pb facs="tcp:185171:6"/> appeare, and the number of ſkilfull mi<g ref="char:EOLhyphen"/>niſters (which are very precious iewels in a Chriſtian kingdom) would increaſe accordingly. For who are there, that haue ſpent their time profitably at their books, &amp; are excelle<g ref="char:cmbAbbrStroke">̄</g>tly furniſhed for the building of Gods Church, that would either hyde their talentes in a napkin,<note place="margin">Mat. 25.</note> or burie them in the earth: yea rather, that are not with all their heartes deſirous to blowe the Lords ſiluer Trumpets,<note place="margin">Num. 10. Ezech. 33.</note> to be watch<g ref="char:EOLhyphen"/>men ouer Gods citie, and feders of his flocke: and what hope is there that theſe worthy men ſhall be employed, when the Churches maintenance is not giuen vn<g ref="char:EOLhyphen"/>to them accordingly, but rather pulled from them moſt ſhamefully: yea, what meane men are there, that will to their great charge maintayne their ſonnes in the vniuerſities for the benefite of Gods Church (for very fewe of greater calling dedicate their ſonnes as Anna did Sa<g ref="char:EOLhyphen"/>muel to the Lords miniſterie) when they ſee that learning, vertue and religion, are not preferred and rewarded for learning, vertue, and religions ſake: and that (as A<g ref="char:EOLhyphen"/>riſtodemus of Lacedemon ſaide, money,
+<pb facs="tcp:185171:7"/> money is y<hi rend="sup">e</hi> ma<g ref="char:cmbAbbrStroke">̄</g>, without money either gi<g ref="char:EOLhyphen"/>ue<g ref="char:cmbAbbrStroke">̄</g> to corrupt patro<g ref="char:cmbAbbrStroke">̄</g>s, or corrupt brokers, the Churches allowance is very hardly come by. Lent ſhrift is found fault with long ago, but ſure I am, that the ſhriuing or rather ſhauing of the Churchemen, as it is more coſtly then Popiſhe ſhrift, ſo is it in ſome ſorte, as greate an enemy to Gods religion, as that trumpery was. If that which I haue ſet downe in my Treatiſe of the Sacramentes, or in this booke can not worke the good (I meane the vnfained conuerſion) of ſuche, as ey<g ref="char:EOLhyphen"/>ther haue, or doe poll the Church, let them remember, that euen the popiſhe ſort, (howſoeuer they are wide, both of white &amp; butte, in many weighty pointes of Gods religion) doe both miſlike and condemne the giuing and taking of mo<g ref="char:EOLhyphen"/>ney, or penſions for cleargy liuinges, and thinke it a very abſurd thing (as it is indeed) that anie patrone, becauſe he hath right according to the lawe, to preſent a fitte man, ſhoulde pull away either the whole, or the leaſt part of y<hi rend="sup">e</hi> churches pro<g ref="char:EOLhyphen"/>uiſion. Secondly, that the time will come, when theſe graceleſſe cormorances
+<pb facs="tcp:185171:7"/> ſhal ſing this ſong with y<hi rend="sup">e</hi> king of Babilo<g ref="char:cmbAbbrStroke">̄</g>, <hi>vocetur Daniel,</hi> ſende, ſende,<note place="margin">
+                        <hi>Dan.</hi> 5. 1. <hi>King.</hi> 13. <hi>Exod.</hi> 8.</note> for a godlie preacher: &amp; with y<hi rend="sup">e</hi> king of Iſrael, <hi>Orapro me, &amp;c.</hi> O man of God, pray y<hi rend="sup">t</hi> my withe<g ref="char:EOLhyphen"/>red ha<g ref="char:cmbAbbrStroke">̄</g>d may be reſtored: &amp; with the king of Egypt, <hi>Orate dominu<g ref="char:cmbAbbrStroke">̄</g> vt auferat ra<g ref="char:EOLhyphen"/>nas,</hi> Moſes and Aaron pray ye to the lord, that I and my people may bee rid of the frogges. Let the<g ref="char:cmbAbbrStroke">̄</g> reme<g ref="char:cmbAbbrStroke">̄</g>ber (I ſay) y<hi rend="sup">t</hi> the time wil come, whe<g ref="char:cmbAbbrStroke">̄</g> they ſhall ſing this ſo<g ref="char:cmbAbbrStroke">̄</g>g with theſe vngracious princes, how<g ref="char:EOLhyphen"/>ſoeuer they either haue or doe poll godlie me<g ref="char:cmbAbbrStroke">̄</g> of y<hi rend="sup">e</hi> churches maintena<g ref="char:cmbAbbrStroke">̄</g>ce.<note place="margin">T. Liuius lib. 42.</note> If. <hi>Q. Ful<g ref="char:EOLhyphen"/>uius</hi> vncouering the one halfe of Iunoes te<g ref="char:cmbAbbrStroke">̄</g>ple, y<hi rend="sup">t</hi> he might couer another te<g ref="char:cmbAbbrStroke">̄</g>ple in Rome w<hi rend="sup">t</hi> the ſame tiles, was greatly both miſliked &amp; condemned by the<g ref="char:cmbAbbrStroke">̄</g> of Rome for his fact: if they told him that Pyrrhus and Annibal would not haue faulted ſo, and y<hi rend="sup">t</hi> the pulling of y<hi rend="sup">e</hi> tiles, from priuate mens houſes had bin too much, &amp; therfore fro<g ref="char:cmbAbbrStroke">̄</g> y<hi rend="sup">e</hi> Church, was intollerable, if they cau<g ref="char:EOLhyphen"/>ſed the tiles of Iunoes temple to be ſent home againe: may not ſuch as either gar<g ref="char:EOLhyphen"/>niſh their houſes, or themſelues, or both, with the ſpoyle &amp; ruine of Chriſtia<g ref="char:cmbAbbrStroke">̄</g> chur<g ref="char:EOLhyphen"/>ches, be iuſtly both miſliked &amp; condemned?
+<pb facs="tcp:185171:8"/> may they not be truely tolde, that the E<g ref="char:EOLhyphen"/>gyptians, &amp; Philiſtines would not ſpoile the Temples of their idols, and that the Churches mayntenance is too holy and precious a thing for them to laye their fingers on, and may they not bee iuſtly called on, to returne home againe not the tyles of Iunoes Temple, but all that which belonges to the maintenance of almighty Gods religion?<note place="margin">1. Sam. 6.</note> The Phi<g ref="char:EOLhyphen"/>liſtines when they ſent Gods Arke from them,<note place="margin">Luke 19.</note> ſent it with a gift. Zacheus of Ie<g ref="char:EOLhyphen"/>richo, did offer fourefold reſtitution, if he had iniuried any man. The Churche<g ref="char:EOLhyphen"/>men deſire not any ouerplus, and vſurie of them, which eyther haue or doe poll the liuings of the Church: onely they de<g ref="char:EOLhyphen"/>ſire reſtitution of the principall, that is, of their owne. To conclude, if Churche-pollers haue any ſparke of Gods feare &amp; religion in the<g ref="char:cmbAbbrStroke">̄</g>,<note place="margin">Ier. 13.</note> if they be not as the black moore, which cannot change his ſkin, or as the Leopard, which cannot chaunge his ſpots, if they honour our gracious Prince, if they loue this noble Church &amp; kingdome, if they haue Engliſhe mens hearts, if they beleeue y<hi rend="sup">t</hi> there is a heauen
+<pb facs="tcp:185171:8"/> for Gods ſeruants, &amp; a hel for Churchrob<g ref="char:EOLhyphen"/>bers, the<g ref="char:cmbAbbrStroke">̄</g> let them not vſe Gods Church,<note place="margin">Plin lib. 1<gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> chap. 62.</note> as y<hi rend="sup">e</hi> young vipers doe their damme, that is, breake the bodie of her: but let them change their monſtrous courſe, and if it pleaſe them not to be good to the church<g ref="char:EOLhyphen"/>men, let them be good to themſelues, &amp; re<g ref="char:EOLhyphen"/>member that the wyld aſſe,<note place="margin">Iere. 2.</note> though ſhee ſnuffe vp y<hi rend="sup">e</hi> winde at her pleaſure, is fou<g ref="char:cmbAbbrStroke">̄</g>d in her moneth: &amp; if it like them not to fauour themſelues,<note place="margin">Tertul. ad Scap.</note> let them be good (I will not ſay to Carthage, as Tertullian ſaid to the preſident of Carthage in ano<g ref="char:EOLhyphen"/>ther caſe) but to y<hi rend="sup">e</hi> Church of God,<note place="margin">Ephe. 53</note> which is Chriſts both body &amp; ſpouſe, betweene which church, &amp; his maieſty, bicauſe, there is a very ſure and inſeparable knot, it is moſt certayne, that the iniurie done to the Church, reacheth to Ieſus Chriſt y<hi rend="sup">e</hi> head and bridegroome of the Church, before whoſe iudgement ſeate we muſt all ap<g ref="char:EOLhyphen"/>peare, and receiue according to that we haue done in this body, whether good or euil. <hi>2. Cor. chap. 5.</hi>
+                  </p>
+               </div>
+               <div type="table_of_contents">
+                  <pb facs="tcp:185171:9"/>
+                  <head>
+                     <g ref="char:leaf">❧</g> A Table of ſuche <hi>points as are contained</hi> in this Treatiſe.</head>
+                  <list>
+                     <item>1 VVHat the viſible Church is, &amp; why it is called vniuerſall.</item>
+                     <item>2 Without the Churche there is no ſaluation.</item>
+                     <item>3 The preaching of Gods worde, and the ſincere adminiſtration of the Sacra<g ref="char:EOLhyphen"/>mentes, are the eſſentiall markes of Chriſtes Church.</item>
+                     <item>4 Godly and learned miniſters muſt be freely and bountifully prouided for.</item>
+                     <item>5 We may not forſake Gods Churche, though there bee euill men or blemiſhes in it.</item>
+                     <item>6 There is but one onely true Church.</item>
+                     <item>7 The eſtate of the Churche in the time of grace, is much better then the eſtate of the Church, eyther before or vnder the lawe.</item>
+                     <item>8 They are not alwayes the Churche, which vaunt themſelues to be the church.</item>
+                     <item>9 The viſible Churche conſiſteth of
+<pb facs="tcp:185171:9"/> good and bad.</item>
+                     <item>10 The particuler Churches are mixte of the elect and reprobate, but they are not called Gods Churches, but for the electes ſake.</item>
+                     <item>11 The external eſtate of Gods church, is ſubiect to many chaunges in the worlde, therefore Gods Church is not alike viſible at all times.</item>
+                     <item>12 The viſible church muſt not be tied to any place or perſons.</item>
+                     <item>13 Gods church cannot be quenched.</item>
+                     <item>14 God hath his Church alwayes in earth.</item>
+                     <item>15 The reprobates are not of the Church.</item>
+                     <item>16 Succesſion of Biſhops is not an in<g ref="char:EOLhyphen"/>fallible argument of Gods church.</item>
+                     <item>17 Antiquitie is no ſure argument of Gods Church.</item>
+                     <item>18 Euerie vnitie is not a ſure argume<g ref="char:cmbAbbrStroke">̄</g>t of the true church, neither is euery diſcorde a ſure argument of a falſe church.</item>
+                     <item>19 Multitude is not an infallible argu<g ref="char:EOLhyphen"/>ment of Gods church.</item>
+                     <item>20 The church is not to be meaſured by the external ſhew.</item>
+                     <pb facs="tcp:185171:10"/>
+                     <item>21 None, which are or haue beene ali<g ref="char:EOLhyphen"/>ents from the Church of God, are to bee ad<g ref="char:EOLhyphen"/>mitted raſhly into it.</item>
+                     <item>22 Gods Church may erre.</item>
+                     <item>23 The Church is not perfect in this worlde.</item>
+                     <item>24 The Church of Rome hath and may erre.</item>
+                     <item>25 They may not be accompted Schiſ<g ref="char:EOLhyphen"/>matikes, whiche forſake the Churche of Rome.</item>
+                     <item>26 The Church muſt be built vpon the word of God.</item>
+                     <item>27 The Churche is knowen by the worde of God.</item>
+                     <item>28 Ieſus Chriſt alone, is the foundation of his Church.</item>
+                     <item>29 What the catholike Church is.</item>
+                     <item>30 The catholike Church is not viſible.</item>
+                  </list>
+               </div>
+            </front>
+            <body>
+               <div type="treatise">
+                  <pb facs="tcp:185171:10"/>
+                  <head>
+                     <g ref="char:leaf">❧</g> A Godlie Treatiſe of the Church.</head>
+                  <div type="part">
+                     <head>1 What the viſible Church is, &amp; why it is called vniuerſall?</head>
+                     <p>
+                        <seg rend="decorInit">T</seg>He viſible church is y<hi rend="sup">e</hi> co<g ref="char:cmbAbbrStroke">̄</g>
+                        <g ref="char:EOLhyphen"/>pany of thoſe which make profeſſion to ſerue y<hi rend="sup">e</hi> true God in Chriſt. This viſi<g ref="char:EOLhyphen"/>ble Church is called vni<g ref="char:EOLhyphen"/>uerſal, becauſe it is tyed not to any certaine place, perſo<g ref="char:cmbAbbrStroke">̄</g>s, or time, but is diſperſed through y<hi rend="sup">e</hi> whole worlde, and ſhall ſo continue vntill the ende of the worlde.</p>
+                  </div>
+                  <div type="part">
+                     <head>2 Without the Church there is no ſaluation, that is to ſay, vnleſſe we be of the aſſembly of Gods children we can<g ref="char:EOLhyphen"/>not be ſaued.</head>
+                     <p>BEhold, darknes ſhall couer the earth, and groſſe darkeneſſe the people, but the Lord ſhall ariſe vpon thee, &amp; his glo<g ref="char:EOLhyphen"/>rie ſhall be ſeene vpon thee. <hi>Iſa. cha. 60. ver. 2.</hi> By whiche wordes it is manifeſt,
+<pb facs="tcp:185171:11"/> that onely the Church is partaker of the light of Gods ſpirit, and of the brightnes of his fauour.</p>
+                     <p>In Mount Sion, and in Ieruſalem, (that is to ſay in the Church) ſhalbe de<g ref="char:EOLhyphen"/>liuerance. <hi>Ioel chap. 2. ver. 32.</hi> There<g ref="char:EOLhyphen"/>fore without the Church there is no ſal<g ref="char:EOLhyphen"/>uation.</p>
+                     <p>The Lorde added to the Churche from day to day, ſuche as ſhoulde be ſa<g ref="char:EOLhyphen"/>ued. <hi>Actes chap. 2. ver. 47.</hi> Therefore without the Churche, there is no ſalua<g ref="char:EOLhyphen"/>tion.</p>
+                     <p>Chriſt and his Church, are moſt ſure<g ref="char:EOLhyphen"/>ly linked together, for Chriſt is the bride<g ref="char:EOLhyphen"/>groome, and the Church is the ſpouſe. <hi>Ephe. chap. 5. ver. 25.29.30.</hi> Howe then can any be with Chriſt, which is not with his ſpouſe (that is to ſay) in Chriſtes Church? <hi>Cyp. lib. 2. Epiſt. 8.</hi>
+                     </p>
+                     <p>He cannot haue God to be his father, which hath not the Churche to be is mo<g ref="char:EOLhyphen"/>ther. <hi>Cyp. de vnitate Eccle.</hi> The Church is called the mother of the faithful, be<g ref="char:EOLhyphen"/>cauſe ſhe nouriſhes them alwayes by the word of truth.</p>
+                     <p>
+                        <hi>Noe,</hi> and his familie had periſhed in y<hi rend="sup">e</hi>
+                        <pb facs="tcp:185171:11"/> flood, if they had not continued in y<hi rend="sup">e</hi> Arke, <hi>Gen. chap. 7. ver. 21.22.23.</hi> The bra<g ref="char:cmbAbbrStroke">̄</g>ch, which is cut from the vine, cannot but wither. A ma<g ref="char:cmbAbbrStroke">̄</g>s arme, which is cut fro<g ref="char:cmbAbbrStroke">̄</g> his body, is quickly without life. They whi<g ref="char:EOLhyphen"/>che are without Gods Church, are voyd of Gods ſpirit, whatſoeuer viſard of ho<g ref="char:EOLhyphen"/>lineſſe they put on amongſt men. <hi>Augu<g ref="char:EOLhyphen"/>ſtine</hi> is flat for this. <hi>Epiſtle 50.</hi> and <hi>152</hi> So is <hi>Lactantius. lib. 4. chap. 14. &amp; 30.</hi>
+                     </p>
+                     <p>When any Popiſh Heretike vſes the name of the Church, as an argument to draw vs from the written word, we muſt aunſweare, that hee is not ioyned to the Church, which is ſeuered from the Go<g ref="char:EOLhyphen"/>ſpell, and that whoſoeuer ſetteth vp a Church without the word, buildes not a Church, but a Hoggeſcote.</p>
+                     <p>
+                        <hi>Queſtion.</hi>
+                     </p>
+                     <p>If there be no ſaluation without the Church, what ſhall become of the<g ref="char:cmbAbbrStroke">̄</g>, whiche haue not heard of Chriſt?</p>
+                     <p>
+                        <hi>Anſwere.</hi>
+                     </p>
+                     <p>They cannot pretend ignorance, for the great booke of the heauens, wherein Gods glorie is written in capital letters, is opened wide vnto them. <hi>Pſal. 19. verſ.
+<pb facs="tcp:185171:12"/> 1.</hi> I graunt that the condemnation of ſuch ſhall not be ſo grieuous, as theirs, which haue hearde the Goſpell, and con<g ref="char:EOLhyphen"/>temned it: notwithſtanding they, which haue not heard of Chriſt, ſhall not bee ſa<g ref="char:EOLhyphen"/>ued, ſeeing they haue in themſelues ſuffi<g ref="char:EOLhyphen"/>cient matter of condemnation, I meane, firſt, originall ſinne, and then manye actuall ſinnes, whiche flow from origi<g ref="char:EOLhyphen"/>nall ſinne, as riuers doe from the ſpring head.</p>
+                     <p>
+                        <hi>Queſtion.</hi>
+                     </p>
+                     <p>If there be no ſaluation without the Church, in what caſe are they, which are iuſtlie excommunicated, that is to ſaye, are cut off from the aſſemblie of the faith<g ref="char:EOLhyphen"/>full?</p>
+                     <p>
+                        <hi>Anſweare.</hi>
+                     </p>
+                     <p>They are in a dangerous caſe, for if it be a grieuous thing to bee caſt out of a wel ordered common wealth, it is more grieuous to bee caſt out of the Churche, which is Gods common wealth. If <hi>Da<g ref="char:EOLhyphen"/>uid,</hi> when hee was ſhut from holy mee<g ref="char:EOLhyphen"/>tinges, not for any fault of his, but by the tyranny of his enimies, lame<g ref="char:cmbAbbrStroke">̄</g>ted his owne caſe very bitterly, &amp; preferred the eſtate
+<pb facs="tcp:185171:12"/> of the ſparrowe, and ſwallowe before his owne: how would <hi>Dauid</hi> haue byn grie<g ref="char:EOLhyphen"/>ued, if he had bin iuſtly barred from the Lordes tabernacles? <hi>Pſal. 84. ver. 1.2.3.</hi> Beſides, they which are iuſtly excommu<g ref="char:EOLhyphen"/>nicated, are deliuered to Sathan, y<hi rend="sup">t</hi> is to ſay, are alie<g ref="char:cmbAbbrStroke">̄</g>ts from Chriſtes kingdom, &amp; are vnder the power &amp; authority of Sa<g ref="char:EOLhyphen"/>tha<g ref="char:cmbAbbrStroke">̄</g>: ſo were the inceſtuous <hi>Corinthia<g ref="char:cmbAbbrStroke">̄</g>,</hi>
+                        <note place="margin">1. Cor. 5. Theod. lib. 5. cap. 18.</note> &amp; <hi>Theodoſius</hi> the Emperour, vntill they were reconciled to Gods Church. The captiuitie of the <hi>Iſraelites</hi> was great vn<g ref="char:EOLhyphen"/>der <hi>Pharao</hi> in <hi>Egypt,</hi> &amp; vnder <hi>Nabucho<g ref="char:EOLhyphen"/>donozor</hi> and <hi>Balthaſar</hi> in <hi>Babylon,</hi> but the captiuitie vnder Sathan, goes be<g ref="char:EOLhyphen"/>yond it: for whatſoeuer is bound in earth, is bound in heauen. <hi>Mat. cap. 18, ver. 18.</hi> The Popes excommunication againſt our noble Queene, and her beſt ſubiectes hath not ſo much grou<g ref="char:cmbAbbrStroke">̄</g>d in Gods book, to ſtand vpon, as y<hi rend="sup">e</hi> Iewes excommunicatio<g ref="char:cmbAbbrStroke">̄</g> had, when they caſt Chriſt and his Apo<g ref="char:EOLhyphen"/>ſtles out of their Synagogues.</p>
+                     <p>
+                        <hi>Queſtion.</hi>
+                     </p>
+                     <p>If the Popes excommunicatio<g ref="char:cmbAbbrStroke">̄</g> againſt our gracious ſoueraigne Q. <hi>Elizabeth</hi> were lawful, whether might y<hi rend="sup">e</hi> ſubiects of
+<pb facs="tcp:185171:13"/> Englande deny their obedience to her Maieſtie, and depoſe her from her king<g ref="char:EOLhyphen"/>dome?</p>
+                     <p>
+                        <hi>Anſweare.</hi>
+                     </p>
+                     <p>They might not: my reaſons are theſe. <hi>Tiberius</hi> was a wicked Emperor, yet Chriſt and Peter payde him tribute. <hi>Math. chap. 17. ver. 24.27.</hi>
+                        <note place="margin">1. Pet. chap. 2 ver. 13.</note> 
+                        <hi>Nero, Do<g ref="char:EOLhyphen"/>mitian</hi> were perſecutours of Gods Churche, yet the Apoſtles, &amp; other godly men obeyed them. The Emperour <hi>Iuli<g ref="char:EOLhyphen"/>an</hi> was a wicked Apoſtata, but the aun<g ref="char:EOLhyphen"/>cient Chriſtians obeyed him.<note place="margin">Euſeb. lib. 3. cap. 20. Sozom. lib. 5. cap. 4.</note> 
+                        <hi>Theodoſi<g ref="char:EOLhyphen"/>us</hi> the Emperour was excommunicated by <hi>Ambroſe</hi> the Biſhop of <hi>Mediolanu<g ref="char:cmbAbbrStroke">̄</g>,</hi> but <hi>Ambroſe</hi> obeyed him, euen during the time of his excommunication. <hi>The<g ref="char:EOLhyphen"/>odor. lib. 5. cap. 18.</hi> If theſe Emperors were obeyed, ſhall not our gracious ſo<g ref="char:EOLhyphen"/>ueraigne, (though ſhe were iuſtly excom<g ref="char:EOLhyphen"/>municated) bee duetifully obeyed of her ſubiectes?<note place="margin">2. Theſſal. 3. ver. 15.</note> Are wee commaunded to ac<g ref="char:EOLhyphen"/>compt another, whiche is iuſtly excom<g ref="char:EOLhyphen"/>municated, not as an enimie, but as a bro<g ref="char:EOLhyphen"/>ther, and ſhall we not performe the like to our noble prince, if ſhe were iuſtly ex<g ref="char:EOLhyphen"/>communicated? and ſure I am, that thoſe
+<pb facs="tcp:185171:13"/> men are very farre fro<g ref="char:cmbAbbrStroke">̄</g> performing this duetie to her Maieſtie, which denie their lawfull obedience vnto her. Beſides, what warrant had <hi>Pius</hi> the firſt, &amp; <hi>Gre<g ref="char:EOLhyphen"/>gorie</hi> the <hi>13,</hi> to diſcharge the ſubiectes of England of their allegiance: if it bee ſaide that Saint <hi>Peters</hi> keyes are war<g ref="char:EOLhyphen"/>rant inough,<note place="margin">Platina in Greg. 7.</note> and that <hi>Gregorie</hi> the <hi>7.</hi> had no better when he dealt againſt <hi>Henrie</hi> the Emperour, nor <hi>Gregorie</hi> the ſecond, <hi>Innocentius</hi> the fourth, <hi>Paſchalis</hi> the <hi>2.</hi> when they dealt againſt the Emperours, <hi>Leo, Fridericus,</hi> and <hi>Henrie</hi> the 4. nor Pope <hi>Zacharie,</hi> and <hi>Martyn</hi> the 4. when they dealt againſt <hi>Childericke</hi> the king of Fraunce, and <hi>Peter</hi> the king of <hi>Arra<g ref="char:EOLhyphen"/>gonia:</hi> I aunſweare, that <hi>Peters</hi> keyes (though the Pope had good right to the<g ref="char:cmbAbbrStroke">̄</g>) ſerue not to giue entrance into, or to ſhut out of earthly kingdomes, for they are y<hi rend="sup">e</hi> keyes of the kingdome of heauen. <hi>Math. chap. 16. ver. 19.</hi> And who knowes not, that the kingdome of heauen (that is to ſay, eternall life) is a thing farre differe<g ref="char:cmbAbbrStroke">̄</g>t from the kingdome of the world? Laſt<g ref="char:EOLhyphen"/>ly, excommunication, (which is a notable &amp; ſoueraigne medicine in Gods church) is
+<pb facs="tcp:185171:14"/> the puniſhment of the conſcience, not of goods, nor of the body (otherwiſe then by ſome ſhame &amp; reproch, which waites vp<g ref="char:EOLhyphen"/>pon our ſeparation from the Churche of God, and ſo are S. <hi>Paules</hi> wordes of the deſtruction of the fleſhe,<note place="margin">1. Cor. 5.</note> to be vnderſtan<g ref="char:EOLhyphen"/>ded:) therefore they which haue purpoſed ſince the Popes exco<g ref="char:cmbAbbrStroke">̄</g>munication againſt her maieſtie, eyther to hurt her royall perſon, or to depoſe her from her king<g ref="char:EOLhyphen"/>dome, as they haue paſſed the liſtes and bou<g ref="char:cmbAbbrStroke">̄</g>ds of al exco<g ref="char:cmbAbbrStroke">̄</g>munication, ſo their ſinne is very groſſe, &amp; exa<g ref="char:cmbAbbrStroke">̄</g>ple very dangerous.</p>
+                  </div>
+                  <div type="part">
+                     <head>3 The preaching of Gods word, &amp; the ſincere adminiſtration of the Sacra<g ref="char:EOLhyphen"/>ments, are the eſſential markes of Chri<g ref="char:EOLhyphen"/>ſtes Churche: and where theſe markes are, there vndoubtedly the true church is, though there bee otherwiſe in that Church ſome blemiſhes.</head>
+                     <p>IF the Church be the aſſemblie of the faithful,<note place="margin">Rom. 10.</note> and faith commeth by hearing, and hearing by the worde of God, it is a cleare caſe that the preaching of the worde belongeth to the eſſence of the viſi<g ref="char:EOLhyphen"/>ble Church.</p>
+                     <pb facs="tcp:185171:14"/>
+                     <p>We are taught in Gods booke,<note place="margin">Mat. 28.</note> that the Sacraments inſtituted of Chriſt, are the ſeales of Gods word, therfore the Sacra<g ref="char:EOLhyphen"/>ments, pertayne to the eſſence of the viſi<g ref="char:EOLhyphen"/>ble Church.</p>
+                     <p>The Churches of <hi>Iſrael</hi> and <hi>Iuda,</hi> were therefore Gods Churches, becauſe they had Gods law preached &amp; circumciſion &amp; the paſſeouer (which were their Sacra<g ref="char:EOLhyphen"/>me<g ref="char:cmbAbbrStroke">̄</g>ts) adminiſtred amongſt the<g ref="char:cmbAbbrStroke">̄</g>. <hi>Ioſias,</hi>
+                        <note place="margin">2. Chron. 34. &amp; 35. chap.</note> y<hi rend="sup">t</hi> he might pla<g ref="char:cmbAbbrStroke">̄</g>t Gods Church aright, cau<g ref="char:EOLhyphen"/>ſed the booke of the lawe to be publiſhed, and a paſſeouer to be proclaymed.<note place="margin">Nehem. 8. Ezra. 7.</note> 
+                        <hi>Ezra</hi> after his returne from <hi>Babylon,</hi> expoun<g ref="char:EOLhyphen"/>deth Gods law to the Iſraelites, &amp; reſto<g ref="char:EOLhyphen"/>reth the true vſe of the Paſſeouer.</p>
+                     <p>S. <hi>Luke</hi> ſetting down the eſtate of the Primitiue Churche in orient coloures,<note place="margin">Acts 2.</note> ſaith, that they continued in the Apoſtles doctrine (which is the life of the Church) and felowſhip, (that is in performing of Chriſtia<g ref="char:cmbAbbrStroke">̄</g> dueties one to another,) &amp; brea<g ref="char:EOLhyphen"/>king of bread (y<hi rend="sup">t</hi> is in the adminiſtratio<g ref="char:cmbAbbrStroke">̄</g> of the holy ſupper,) &amp; prayers (y<hi rend="sup">t</hi> is publike prayers, in which conſiſteth the profeſſi<g ref="char:EOLhyphen"/>on of our religio<g ref="char:cmbAbbrStroke">̄</g>). This excelle<g ref="char:cmbAbbrStroke">̄</g>t Church had the Apoſtles doctrine, and the holye
+<pb facs="tcp:185171:15"/> communion, therefore it was the church of Chriſt. If any ſaye that the Sacra<g ref="char:EOLhyphen"/>ment of baptiſme is not here mentioned. I aunſweare in a worde, that Saynt <hi>Luke</hi> needed not to mention Baptiſme, ſeeyng he ſpeaketh of ſuch as were alrea<g ref="char:EOLhyphen"/>die baptiſed.</p>
+                     <p>
+                        <note place="margin">1. Cor. 1. 2. Cor. 1. Galat. 1.</note>The Churches of <hi>Corinth</hi> and <hi>Ga<g ref="char:EOLhyphen"/>latia,</hi> had great blemiſhes in them: yet be<g ref="char:EOLhyphen"/>cauſe they had Gods truth &amp; ſacrame<g ref="char:cmbAbbrStroke">̄</g>ts among them, they are accompted by S. <hi>Paule</hi> the Churches of God.</p>
+                     <p>If the ſound preaching of the worde, and the adminiſtration of the ſacrame<g ref="char:cmbAbbrStroke">̄</g>ts, are the eſſentiall marks of Gods church, then learned miniſters are neceſſarie: for they blow the Lords ſiluer trumpets,<note place="margin">Num. 10.</note> &amp; put their handes to the framing of the ſil<g ref="char:EOLhyphen"/>uer veſſels of the temple. If Godlie and learned miniſters are neceſſarie and ſin<g ref="char:EOLhyphen"/>guler ornaments in the Church of God, then ſchooles of learning, and Vniuerſi<g ref="char:EOLhyphen"/>ties (wherein ſtudents are made fitte to ſerue Gods Church) are eſpecially to be regarded.<note place="margin">1. Sam. 19. 2. King, 2. &amp; 22. chap.</note> Suche ſchooles of learning were at <hi>Nayoth</hi> in <hi>Samuels</hi> time, at <hi>Ie<g ref="char:EOLhyphen"/>richo,</hi> and <hi>Bethel</hi> in <hi>Elizeus</hi> time, at <hi>Ie<g ref="char:EOLhyphen"/>ruſalem</hi>
+                        <pb facs="tcp:185171:15"/> in <hi>Ioſias time,</hi>
+                        <note place="margin">Caluin in 1. Cor. chap. 14. verſe 32.</note> at <hi>Corinth</hi> in S. <hi>Paules</hi> time, and ſuch are now with vs in <hi>Cambridge</hi> and <hi>Oxeforde.</hi> If theſe be vpholden, religion flouriſheth, and con<g ref="char:EOLhyphen"/>ſequently Gods bleſſings increaſe in y<hi rend="sup">e</hi> land. If theſe goe to wracke, farewel re<g ref="char:EOLhyphen"/>ligion, and the good eſtate of the commo<g ref="char:cmbAbbrStroke">̄</g> wealth. But Vniuerſities and ſchooles of learning, muſt needes decay, when the ſtudents are not prouided for, &amp; imployed accordingly: and preferred and imployed they cannot bee, if either the Churches maintenance be pulled away, or Church liuings be bought and ſold for money or penſions.</p>
+                  </div>
+                  <div type="part">
+                     <head>4 Godlie and learned Miniſters muſt bee freely and bountifully proui<g ref="char:EOLhyphen"/>ded for.</head>
+                     <p>BEware, that thou forſake not the <hi>Le<g ref="char:EOLhyphen"/>uite,</hi> as long as thou liueſt vppon the earth. <hi>Deut. chap. 12. ver. 19.</hi> Almighty God commanded the Iſraelites to haue eſpeciall care of the <hi>Leuite,</hi> therefore they might not vſe him like a drudge, or ſend him a begging. If the <hi>Leuite</hi> muſt
+<pb facs="tcp:185171:16"/> be excellently vſed, greater regarde muſt be had of the miniſter of the Goſpell, whoſe calling (becauſe it is greater then <hi>Iohn the</hi> Baptiſtes,<note place="margin">Mat. chap. 11. ver. 11.</note> is farre aboue the Leuites.</p>
+                     <p>Gods Church is the piller &amp; ground of truth. <hi>1. Tim. cap. 3. ver. 15.</hi> becauſe by y<hi rend="sup">e</hi> miniſtery of the word Gods truth is pre<g ref="char:EOLhyphen"/>ſerued in the Church. If the miniſterye of the word preſerues this precious iew<g ref="char:EOLhyphen"/>el in the church (as the prieſts did the fire vpon the altar in the time of the law) the<g ref="char:cmbAbbrStroke">̄</g> they,<note place="margin">Leuit. chap. 6.</note> which hinder Gods miniſtery, doe robbe Gods Church of ineſtimable trea<g ref="char:EOLhyphen"/>ſure: &amp; hinder y<hi rend="sup">e</hi> miniſtery do they, which diſcourage the learned miniſters by pow<g ref="char:EOLhyphen"/>ling the<g ref="char:cmbAbbrStroke">̄</g> of the churches prouiſion. But if <hi>Dauid</hi> ſending his ſeruaunts to comfort y<hi rend="sup">e</hi> king of <hi>Amon</hi> after his fathers death,<note place="margin">2. Sam. 10.</note> tooke in great dudgen the ſhauing of his ſeruantes beardes, &amp; cutting of their gar<g ref="char:EOLhyphen"/>me<g ref="char:cmbAbbrStroke">̄</g>ts, will almighty God take it in good part, that his ſeruants whom he hath fur<g ref="char:EOLhyphen"/>niſhed with excellent gifts, for the co<g ref="char:cmbAbbrStroke">̄</g>fort of his church, are polled &amp; ſhaue<g ref="char:cmbAbbrStroke">̄</g> of their maintenance, &amp; ſtripped as it were into their ſhirts, and handled as diſhcloutes.</p>
+                     <pb facs="tcp:185171:16"/>
+                     <p>Who goeth a warfare any time at his owne coſt? Who pla<g ref="char:cmbAbbrStroke">̄</g>teth a vineyard, and eateth not of the fruit therof? Or who fee<g ref="char:EOLhyphen"/>deth a flocke, &amp; eateth not of the milke of the flocke? <hi>5. Cor. chap. 9. ver. 7.</hi> If they whom S. <hi>Paule</hi> mentions in this verſe, are prouided for either of the common charge, as the ſouldier, or by the fruit of the vine, as the huſbandman, or by the mylke of the flocke, as the ſhepheard: It is moſt equall that learned miniſters ſhould haue large allowance of the chur<g ref="char:EOLhyphen"/>ches charge: for their warfare, vineplan<g ref="char:EOLhyphen"/>ting &amp; ſheepfeeding doeth as farre paſſe the others, as the precious diamond doth the peeble ſtone.</p>
+                     <p>We beſeech you brethre<g ref="char:cmbAbbrStroke">̄</g>, y<hi rend="sup">t</hi> you know (y<hi rend="sup">t</hi> is haue regard of) the<g ref="char:cmbAbbrStroke">̄</g>, which labor amo<g ref="char:cmbAbbrStroke">̄</g>g you, y<hi rend="sup">t</hi> ye haue them in ſinguler loue for their works ſake, &amp;c. <hi>1. The. cap. 5 ver. 12 13.</hi> If learned miniſters muſt be eſpecial<g ref="char:EOLhyphen"/>ly fauoured, they may not bee kept from their owne: if they muſt be ſingulerly lo<g ref="char:EOLhyphen"/>ued for their works ſake, they may not be trode<g ref="char:cmbAbbrStroke">̄</g> vpo<g ref="char:cmbAbbrStroke">̄</g>, as y<hi rend="sup">e</hi> mire in y<hi rend="sup">e</hi> ſtreets, nor ſpoi<g ref="char:EOLhyphen"/>led by graceles me<g ref="char:cmbAbbrStroke">̄</g> of y<hi rend="sup">e</hi> churches mainte<g ref="char:EOLhyphen"/>na<g ref="char:cmbAbbrStroke">̄</g>ce. But churchpollers loue churchme<g ref="char:cmbAbbrStroke">̄</g>,
+<pb facs="tcp:185171:17"/> as <hi>Philippides</hi> did his father, when hee cudgeled him,<note place="margin">Aug. epiſt. 168.</note> and as a rufler in <hi>Augu<g ref="char:EOLhyphen"/>ſtines</hi> time did his mother, whom hee v<g ref="char:EOLhyphen"/>ſed in like ſort moſt vnnaturally.</p>
+                     <p>
+                        <hi>Balthaſar</hi> the king of <hi>Babylon</hi> in the middeſt of a great feaſt, called for the gol<g ref="char:EOLhyphen"/>den veſſels which were brought from the temple of Ieruſalem: they were brought vnto him by his ſeruauntes. The king &amp; his princes, his wiues &amp; his concubines did drinke wine in them: but marke what followes in the Text. At the ſame houre appeared fingers of a mans hand, which wrote ouer againſt the candleſticke, vp<g ref="char:EOLhyphen"/>pon the playſter of the wall of the kings pallace, and the king ſawe the palme of the hand, that wrote. Then the kinges countenaunce was chaunged, and his thoughtes troubled him, ſo y<hi rend="sup">t</hi> the ioynts of his loynes were looſed, and his knees ſmote one againſt the other &amp;c. <hi>Dan. cha. 5. ver. 2.3.4.5.6.</hi> If Gods iudgementes appeared notably and ſtrangely againſt a mightie monarche, for drinking in a brauery in the holy veſſels of the temple of <hi>Ieruſalem,</hi> will he ſpare meane men in compariſon of him, which by ſpoyling
+<pb facs="tcp:185171:17"/> the Church robbe GOD of his glorie, Gods miniſters of their maintenance, &amp; Gods people of the food of their ſoules? If neither the great riuer <hi>Euphrates,</hi> nor the high and thicke walles of <hi>Baby<g ref="char:EOLhyphen"/>lon,</hi> could keep Gods iudgeme<g ref="char:cmbAbbrStroke">̄</g>ts from y<hi rend="sup">e</hi> king of <hi>Babylo<g ref="char:cmbAbbrStroke">̄</g>,</hi> ſhall any eyther cunning dealing whatſoeuer,<note place="margin">Theod lib. 3. cap. 12. &amp; 13</note> or mighty bulwarks be able to deliuer Churchrobbers fro<g ref="char:cmbAbbrStroke">̄</g> the vengeance of almighty God? <hi>Iulian</hi> (the Emperour <hi>Iulians</hi> vncle) commaunded the holy veſſels to bee brought into his treaſurie: Almighty God puniſhed him very ſtrangely for it, for he caſt thoſe ex<g ref="char:EOLhyphen"/>crementes vpward, which ſhoulde haue paſſed downeward, and ſo the beaſt died. If God ſpare not the Cedars of <hi>Liba<g ref="char:EOLhyphen"/>nus,</hi> he will not ſpare the Firre trees: if the Oakes of <hi>Baſan</hi> goe to wracke, what ſhall the boxe tree looke for?<note place="margin">2. Mach. cap. 8. ver. 33. T. Liuius li. 29</note> 
+                        <hi>Calliſthe<g ref="char:EOLhyphen"/>nes</hi> ſet fire vpon the holy gates, but he was burnt himſelfe for it. <hi>Pyrrhus</hi> rob<g ref="char:EOLhyphen"/>bed the temple of <hi>Proſerpina,</hi> but the ſhippes which carried that treaſure, did miſcarrie, and <hi>Pyrrhus</hi> himſelfe neuer thriued after.<note place="margin">Heliodôrus.</note>
+                     </p>
+                     <p>Doe yee not knowe that they, which
+<pb facs="tcp:185171:18"/> miniſter about the holy thinges, eate of the things of y<hi rend="sup">e</hi> temple, &amp; they which wait at the altar, are pertakers with the altar? So alſo hath the Lorde ordayned, y<hi rend="sup">t</hi> they which preach the Goſpell, ſhould liue of the Goſpel. <hi>1. Cor. cap. 9. ver. 13.14.</hi> As if S. <hi>Paule</hi> ſhould ſay, the Prieſts in the time of the law were bountifully proui<g ref="char:EOLhyphen"/>ded for, therefore Gods miniſters muſt be excellently dealt with. The Apoſtle ſaith, that the Lorde hath ordayned, that they, which preach y<hi rend="sup">e</hi> Goſpel, ſhould liue of the Goſpell, therefore they which are not carefull for the miniſter, breake the Lords decree, much more they which rob the Church, &amp; the miniſter. If any reply y<hi rend="sup">t</hi> S. <hi>Paule</hi> liued not alwayes of y<hi rend="sup">e</hi> Chur<g ref="char:EOLhyphen"/>ches charge,<note place="margin">1. Cor. chap. 9 ver. 15.</note> I graunt it to be true, &amp; the reaſon, why <hi>Paule</hi> abſtayned, was, that he might not be inferiour to the falſe Apo<g ref="char:EOLhyphen"/>ſtles of <hi>Corinth,</hi> which taught freely, y<hi rend="sup">t</hi> they might corrupt the<g ref="char:cmbAbbrStroke">̄</g> of <hi>Corinth</hi> more eaſily.</p>
+                     <p>Be not deceiued, God is not mocked: <hi>Galat. chap. 6. ver. 7.</hi> Many amongeſt the <hi>Galathians,</hi> defrauded the miniſters of their maintenaunce: leaſt they ſhould
+<pb facs="tcp:185171:18"/> want ſome cloake for their abſurde dea<g ref="char:EOLhyphen"/>linges, they gaue out, that they muſt haue care of their families, and that the miniſters muſt preach the Goſpel of free-coſt: but the Apoſtle aunſweares them roundly in this ſort, be not deceiued, &amp;c, As if he ſhould ſay, you that deale hardly with your miniſters, deceiue your ſelues, and though you goe beyond them, yet al<g ref="char:EOLhyphen"/>mighty God ſees you well ynough, and cannot be mocked. It is Sathans drift to take from men, if he can, the truth of Gods religion, and to that end he openeth his whole packe of ſubtilties. When the Deuill cannot compaſſe y<hi rend="sup">t</hi>, he laboures mightely to hinder Gods religion by al<g ref="char:EOLhyphen"/>luring wicked men to pull away y<hi rend="sup">e</hi> main<g ref="char:EOLhyphen"/>tenance of the miniſters. For what lear<g ref="char:EOLhyphen"/>ned miniſter can attend vpon his ſtudy, if he want bookes, or teach Gods people, if he want neceſſaries. <hi>Ariſtotles</hi> drudge (I confeſſe) was enioyned to worke, &amp; did abide chaſticement,<note place="margin">Atiſt. in Oc<g ref="char:EOLhyphen"/>con.</note> but he had meate (y<hi rend="sup">t</hi> is to ſay all things neceſſary) allowed him.</p>
+                     <p>The Elders that rule well are worthy of double honour, ſpecially, they which
+<pb facs="tcp:185171:19"/> labour in the worde and doctrine. For the Scripture ſaith, thou ſhalt not mou<g ref="char:EOLhyphen"/>zell the mouth of the Oxe, that treadeth out the corne: and the labourer is worthy of his wages, &amp;c. <hi>1. Tim. chap. 5. ver. 17.18.</hi> If learned and painfull Preachers are worthy of double honour, it is a foule ſhame not to prouide for them, &amp; a groſſe ſinne either to crop or girdle their main<g ref="char:EOLhyphen"/>tenance. Saint <hi>Paule</hi> vſeth two reaſons to proue, that the miniſters muſt haue prouiſion accordingly, the firſt is out of the lawe,<note place="margin">Deut. chap. 25.</note> and is this, thou ſhalt not mou<g ref="char:EOLhyphen"/>zel the mouth of the Oxe, that treadeth out the corne: as if the Apoſtle ſhoulde ſay, the Oxe may not be pinched of his prouender, therefore the learned miniſter may not be pealted with. The ſeconde reaſon is out of the Goſpell, and is this: the Labourer is worthie of his wages,<note place="margin">Math. 10.</note> as if he ſhould ſay, euery meane labourer muſt haue his hire, as the Ditcher, Thre<g ref="char:EOLhyphen"/>ſher,<note place="margin">1. Cor. chap. 9. ver. 11.</note> Dawber, &amp;c. Therefore the learned miniſter, which ſowes ſpirituall things, may clayme of duetie to reape carnall thinges, and if of duetie hee may clayme them, then he may not be either ſhauen or
+<pb facs="tcp:185171:19"/> polled of them.</p>
+                     <p>The miniſterie is the ſtrength of the lande, and the life of the lande. That it is the ſtrength of the lande it is mani<g ref="char:EOLhyphen"/>feſt, for whe<g ref="char:cmbAbbrStroke">̄</g> the miniſters by ſound prea<g ref="char:EOLhyphen"/>ching doe vanquiſhe riot, adulterie, coue<g ref="char:EOLhyphen"/>touſneſſe, pride, idleneſſe &amp;c. (Of whiche ſinnes many diſeaſes, beggery, tranſla<g ref="char:EOLhyphen"/>ting of inheritaunce fro<g ref="char:cmbAbbrStroke">̄</g> the right heires, vnneceſſary dearth, ſedition, rebellion, polling of Churches and Churchmen, &amp;c. doe growe) they may be truely called the ſtrength and defence of the common wealth. In <hi>Elias</hi> time the ſtrength of the <hi>Iſraelites</hi> armie did conſiſt of Charri<g ref="char:EOLhyphen"/>ots and horſemen.<note place="margin">2. King. 2.</note> 
+                        <hi>Elizeus</hi> ſeeyng <hi>Elias</hi> taken vp by a whirlewinde into heauen, vſed theſe wordes: My Father, My Fa<g ref="char:EOLhyphen"/>ther, the Charriot of Iſrael, &amp; the horſe<g ref="char:EOLhyphen"/>men thereof: whereby <hi>Elizeus</hi> meant, that <hi>Elias</hi> by his miniſterie had been both Charriot and horſemen for the defence of the <hi>Iſraelites.</hi> That the miniſte<g ref="char:EOLhyphen"/>rie is the life of the lande, it is cleare by this: <hi>Salomon</hi> ſaith, that where pro<g ref="char:EOLhyphen"/>pheſie (that is to ſay, the expounding of Gods worlde) is not, the people periſh,<note place="margin">Prou. 29.</note>
+                        <pb facs="tcp:185171:20"/> therefore where Gods religion is taught the people are aliue.<note place="margin">Amos 8.</note> 
+                        <hi>Amos</hi> teacheth vs, that no famine is ſo grieuous, as y<hi rend="sup">e</hi> famine of Gods worde, therefore where Gods truth is deliuered, the people are free fro<g ref="char:cmbAbbrStroke">̄</g> y<hi rend="sup">e</hi> ſoreſt famine. S. <hi>Paule</hi> charging them of <hi>Theſſalonica,</hi> not to quench the ſpirit (that is the giftes of the ſpirite) co<g ref="char:cmbAbbrStroke">̄</g>mands them not to deſpiſe prophecying (that is to ſay,<note place="margin">1. Theſſ. 5.</note> the expounding of the word) ther<g ref="char:EOLhyphen"/>fore it is a good conſequent y<hi rend="sup">t</hi> the mini<g ref="char:EOLhyphen"/>ſtery of the worde is the life of a Chriſti<g ref="char:EOLhyphen"/>an kingdome. If the miniſtery be the life of a Chriſtian kingdo<g ref="char:cmbAbbrStroke">̄</g>, what deſerue they to be thought of, which thruſt it as lowe as may be, and make it a peece of their ſtudy not to benefite the Church, which is euery mans duetie, but to ſpoyle the Church of that maintenance which be<g ref="char:EOLhyphen"/>longs of duety to learned Teachers? If the good eſtate of the miniſtery be the ſtrength of y<hi rend="sup">e</hi> land, what do they deſerue, which wil very hardly allow it any good place in the lande? If it bee the life of the Lande, what friends are they to the Lande, which for vyle bribes, and curſed penſions preferre corrupt menne whiche for want of ſound learning, are
+<pb facs="tcp:185171:20"/> vnfitte to teache, and for want of God<g ref="char:EOLhyphen"/>ly wiſedome are vnfitte to gouerne. It may be truely ſayd, that ſince the raygne of our gracious Soueraigne Queene <hi>Elizabeth,</hi> manye Studentes in Cam<g ref="char:EOLhyphen"/>bridge and Oxeforde are come to excel<g ref="char:EOLhyphen"/>lent proofe. If their learning, ſound<g ref="char:EOLhyphen"/>neſſe in Religion, and other vertues bee regarded, they are ſinguler: if their wits, they are I am ſure equal at the leaſt to o<g ref="char:EOLhyphen"/>ther mens, what ſeruice they are able to do, would eaſily appeare to Gods glory, &amp; y<hi rend="sup">e</hi> great good of the lande, if they were employed according to their giftes: I meane not ſiluer and golden gifts which are the beſt Logicke, and ſureſt Rheto<g ref="char:EOLhyphen"/>ricke to perſwade corrupt menne, but Gods notable graces and gifts for the which <hi>Pharao</hi> preferred <hi>Ioſeph</hi> in <hi>E<g ref="char:EOLhyphen"/>gipt,</hi>
+                        <note place="margin">Gen. 41. Dan. 6.</note> &amp; <hi>Darius</hi> preferred <hi>Daniell</hi> in <hi>Ba<g ref="char:EOLhyphen"/>bilon.</hi> Is it not a ſtraunge caſe, that in Trinitye, and Saint <hi>Iohns</hi> Col<g ref="char:EOLhyphen"/>ledges in Cambridge (whiche are two of the greateſt Colledges wee haue) not one fellowſhippe falles voyde ſome<g ref="char:EOLhyphen"/>times in a yeere, and more? Doeth not this ſpeake, yea rather cry very lowde, that there is little hope of places
+<pb facs="tcp:185171:21"/> for younger ſtudents, &amp; that fitte men are not prouided for?</p>
+                     <p>
+                        <note place="margin">Poſſid. in vita Auguſt. 10. cap. 24.</note>A noble man of <hi>Hippo</hi> in Afrike, which liued at <hi>Carthage,</hi> gaue a poſſeſ<g ref="char:EOLhyphen"/>ſion of his owne accorde to the Churche of <hi>Hippo,</hi> where <hi>Auguſtine</hi> was By<g ref="char:EOLhyphen"/>ſhop: he ſealed his deede of gift, &amp; ſent it to <hi>Auguſtine</hi> for the Churches behoofe, onelie he reſerued for his life time, the vſe and profit (but not the proprietie) of that poſſeſſion. <hi>Auguſtine</hi> receiued the writinges, and commended the giuer. After a few yeeres this noble man deſi<g ref="char:EOLhyphen"/>red his deed of gift againe, but ſent fiue poundes for the poores reliefe. <hi>Augu<g ref="char:EOLhyphen"/>ſtine</hi> ſeeing the noble mans inconſtancie, was mightely grieued, yet without delay deliuered the writinges, but refuſed his almes, and by letters tooke him vp roundly for his hypocriſie, and exhorted him to earneſt repentance &amp;c. If <hi>Augu<g ref="char:EOLhyphen"/>ſtine</hi> dealt ſharply with the noble man of <hi>Hippo,</hi> for calling backe his owne deede of gift, how would he ſhake thoſe cormo<g ref="char:EOLhyphen"/>rants (if hee were nowe aliue) whiche ſpoyle the Church of other mens deeds of gift? If <hi>Auguſtine</hi> refuſed <hi>5.</hi> pounds
+<pb facs="tcp:185171:21"/> ſent by this noble man of <hi>Hippo</hi> for the benefit of the poore, what accompt would he make of their almes, whiche poll the Church and Churchmen, would he put it into the poore mans boxe? It is cer<g ref="char:EOLhyphen"/>tayne he woulde not, leaſt he ſhoulde bee guiltie of giuing countenance to grace<g ref="char:EOLhyphen"/>leſſe men, and of giuing Gods religion a grieuous blowe.</p>
+                     <p>Gods enimies,<note place="margin">Aug. lib. 8. Confeſ. cap. 5. Socrat. lib. 3. cap. 12.</note> when they woulde o<g ref="char:EOLhyphen"/>uerthrow religion, gaue ſtreight charge that the Chriſtians ſhould not be trained vp in learning, ſo did <hi>Iulian</hi> the Empe<g ref="char:EOLhyphen"/>rour. If I ſhould ſay, that they whiche either poll the Church liuings, or for mo<g ref="char:EOLhyphen"/>ney preferre corrupt men, are of <hi>Iulians</hi> ſtampe, it might ſeeme a hard ſpeech, but it is neither ſo hard, nor ſtrange as their dealinges are. For is it poſſible for ſchooles to thriue, if the vniuerſities de<g ref="char:EOLhyphen"/>cay? And can the Vniuerſities proſper, when the learned ſtudentes are not fur<g ref="char:EOLhyphen"/>niſhed with maintenaunce? The Vni<g ref="char:EOLhyphen"/>uerſities of Cambridge and Oxeford are the frie of the miniſterie, and the ſeede of religion in England. If the good ſtu<g ref="char:EOLhyphen"/>dentes, which are worthy of preferment,
+<pb facs="tcp:185171:22"/> be not prouided for, what place ſhall the younger ſtudents haue? How ſhall they grow in ſtudie, when for want of conue<g ref="char:EOLhyphen"/>nient encouragement in the Vniuerſity they are fayne to leaue their ſtudies be<g ref="char:EOLhyphen"/>fore they be rype, and ſo become pettye ſchoolemaiſters, or ſeruing men, or vn<g ref="char:EOLhyphen"/>timely miniſters: yea, to ſpeake more plainly, who ſees not (if he bee not ſtarke blynd) y<hi rend="sup">t</hi> the want of encouragement for ours, &amp; y<hi rend="sup">e</hi> bountifull prouiſion by the Po<g ref="char:EOLhyphen"/>piſh ſort for theirs, is as a great bel to cal many to their ſeminaryes at <hi>Rome</hi> in <hi>I<g ref="char:EOLhyphen"/>taly,</hi> &amp; at <hi>Rhemes</hi> in <hi>France.</hi> And who is there (if he ſet not Gods feare before his eyes) y<hi rend="sup">t</hi> is not eaſily moued to preferre wealth before want, &amp; good maintenance before beggery. I confeſſe their fault is great,<note place="margin">Exod. 16.</note> which preferre the fleſhpots of <hi>E<g ref="char:EOLhyphen"/>gypt,</hi> before y<hi rend="sup">e</hi> Lords <hi>Manna</hi> in the wil<g ref="char:EOLhyphen"/>derneſſe,<note place="margin">Gen. 25.</note> as the <hi>Iſraelites</hi> did, and which ſell their birthright for pottage as <hi>Eſau</hi> did: But woe to thoſe Cormora<g ref="char:cmbAbbrStroke">̄</g>ts whoſe Churchpolling and brybery, is the great hurt of the Church, and the ſpoyle and vndoyng of many a goodly witte. But that I may ſomewhat comfort ſuch ſtu<g ref="char:EOLhyphen"/>dentes,
+<pb facs="tcp:185171:22"/> as are almoſt diſcouraged, may it pleaſe them to call to mynd two Chri<g ref="char:EOLhyphen"/>ſtian leſſons, firſt that <hi>Dauid</hi> and <hi>Moſes</hi> (which were excellent perſonages) choſe the one,<note place="margin">Pſal. 84.</note> rather to be a doore keeper in the Lordes houſe, then to dwell in the taber<g ref="char:EOLhyphen"/>nacles of wickedneſſe: the other rather to ſuffer aduerſity with the people of God,<note place="margin">Heb. 11.</note> then to be called the ſonne of the king of Egypts daughter. Secondly, that our life is more woorth then meate, and our bodies then rayment,<note place="margin">Math. 6.</note> that the foules of the ayre are fed, &amp; that Lilies of the field are by almighty God more beau<g ref="char:EOLhyphen"/>tifully cloathed, then <hi>Salomon</hi> in all his glory was: therefore he will haue great care of godly ſtudentes in ſuch ſort and time, as ſhall make moſt for his greate glorye, and their ſinguler comfort. <hi>Bonus Dominus qui non tribuit ſaepe quod volumus, vt quod malimus attribuat. Aug. Epiſt. 54.</hi>
+                     </p>
+                  </div>
+                  <div type="part">
+                     <head>5 Wee may not forſake Gods Churche, though there be euill men or blemiſhes in it.</head>
+                     <pb facs="tcp:185171:23"/>
+                     <p>THE Apoſtle giueth ſtreight charge not to forſake the fellowſhip that we haue amongſt our ſelues,<note place="margin">Heb. chap. 10. ver. 25.</note> as the manner of ſome is. Becauſe forſaking of the Churche was a diſeaſe in that time, the Apoſtle giueth them a medicine for it.</p>
+                     <p>
+                        <note place="margin">Eſay 1.</note>The Church of <hi>Ieruſalem</hi> was great<g ref="char:EOLhyphen"/>ly out of temper in <hi>Eſaias</hi> time, ſo it was in our Sauiour Chriſtes, religion was fowlly ſtayned, and there was great cor<g ref="char:EOLhyphen"/>ruption in their manners: Notwithſta<g ref="char:cmbAbbrStroke">̄</g>
+                        <g ref="char:EOLhyphen"/>ding, the Prophets did neither erecte for themſelues eyther new churches, or new altars, but offered vp prayers in the tem<g ref="char:EOLhyphen"/>ple of <hi>Ieruſalem,</hi> which they would not haue done, if it had byn lawful to haue de<g ref="char:EOLhyphen"/>parted from that Church.</p>
+                     <p>
+                        <note place="margin">1. Cor. 3.5.6. &amp; 12.15. cap.</note>In the Church of <hi>Corinth</hi> contenti<g ref="char:EOLhyphen"/>on was ryfe, the inceſtuous man was to<g ref="char:EOLhyphen"/>lerated, the article of the reſurrectio<g ref="char:cmbAbbrStroke">̄</g> was ſhrewdly ſhaken, and Gods giftes were made to ſerue the ambition of men, not the profie of the Church: yet <hi>Paule</hi> wil<g ref="char:EOLhyphen"/>leth not anye man to departe from that Church.</p>
+                     <p>Almighty GOD reſembleth his Church to a vine, to a Corne field, and to
+<pb facs="tcp:185171:23"/> a flock of ſheepe: though the vine be ſpoy<g ref="char:EOLhyphen"/>led, it is the Lordes vyne: though the field haue weeds in it, it is y<hi rend="sup">e</hi> Lords field: though the flocke runne aſtray, it is the flocke of Chriſt, and therefore not to bee forſaken for the abuſes of it: we muſt ra<g ref="char:EOLhyphen"/>ther pray for ſkilfull miniſters to reare vp, and to dreſſe his vine: to labour &amp; to weede his ground, to gather in, &amp; to feed his flocke.</p>
+                     <p>
+                        <hi>Auguſtine</hi> reproueth <hi>Emeritus</hi> y<hi rend="sup">e</hi> Do<g ref="char:EOLhyphen"/>natiſt, becauſe hee departed from the Church. <hi>Epiſt.</hi> 64.</p>
+                     <p>Wee may not deteſt the oyle preſſes,<note place="margin">Aug. epi. 137.</note> becauſe of the foame of the oyle, nor for<g ref="char:EOLhyphen"/>ſake Gods Church,<note place="margin">Cyp. lib. 3. Epiſt. 3.</note> becauſe we ſee tares in the Church: it is our partes to be care<g ref="char:EOLhyphen"/>full, that we may be wheate.</p>
+                     <p>Wee may not leaue the Lordes floore becauſe of the chaffe,<note place="margin">Aug. Epiſt. 46.</note> nor breake y<hi rend="sup">e</hi> Lords nettes becauſe of the euill fiſhes, nor for<g ref="char:EOLhyphen"/>ſake the Lordes flocke becauſe of the goates, nor depart from the Lords houſe becauſe of the veſſels of diſhonour, nor for the iniquity of the badde, leaue the v<g ref="char:EOLhyphen"/>nity of the good.</p>
+                     <p>They which made the Idol, (he mea<g ref="char:EOLhyphen"/>neth
+<pb facs="tcp:185171:24"/> the golden Calfe) were ſlayne with the ſword which is an vſuall death,<note place="margin">Aug. epiſt. 162 &amp; Epiſt. 172. Exod. 32. Num. 16.</note> but they which would make a ſchiſme di<g ref="char:EOLhyphen"/>ed ſtrangely, for y<hi rend="sup">e</hi> chiefeſt of the<g ref="char:cmbAbbrStroke">̄</g> were de<g ref="char:EOLhyphen"/>uoured by the opening of y<hi rend="sup">e</hi> earth, and the multitude which conſented to them, was conſumed with fire.</p>
+                     <p>We may ſuſpect our ſelues to be in<g ref="char:EOLhyphen"/>fected with great pride,<note place="margin">Aug. epiſt. 209</note> whe<g ref="char:cmbAbbrStroke">̄</g> for y<hi rend="sup">e</hi> ſonnes of iniquity we forſake the paſtures of v<g ref="char:EOLhyphen"/>nity. Chriſt hath commaunded vs to aſſe<g ref="char:cmbAbbrStroke">̄</g>
+                        <g ref="char:EOLhyphen"/>ble together, &amp; hath reſerued to himſelfe, the ſeparation of the good and bad. For it belongeth to him to ſeparate, which is free from errour.</p>
+                     <p>The <hi>Nouatians, Donatiſts, Anabap<g ref="char:EOLhyphen"/>tiſtes, &amp;c.</hi> doe leaue the Church of God, becauſe all ſtaynes &amp; blemiſhes are not remoued out of the Church.</p>
+                     <p>As we may not forſake Gods church, though there bee euill men or blemiſhes in it, ſo is it euery mans duety (within y<hi rend="sup">e</hi> compaſſe of his calling) to reforme euil men, and to remoue blemiſhes.</p>
+                  </div>
+                  <div type="part">
+                     <pb facs="tcp:185171:24"/>
+                     <head>6 There is but one onely true Church.</head>
+                     <p>THe Churche is Chriſtes body and ſpouſe,<note place="margin">Ephe chap. 5. Cant. 6.</note> Chriſtes body and ſpouſe is but one. My doue is one.</p>
+                     <p>S. <hi>Paule</hi> ſaith of the whole Church,<note place="margin">Galat. 3.</note> y<hi rend="sup">t</hi> we are all one in Chriſt Ieſus. For a<g ref="char:EOLhyphen"/>mongeſt the faithful, there is one body and one ſpirite, one hope, one Lorde,<note place="margin">Ephe. 4.</note> one faith, one Baptiſme, one God. Therfore all the particuler Churches, which con<g ref="char:EOLhyphen"/>ſent in true religion, muſt be accompted but one onely Church.</p>
+                     <p>There are many beames in the ſun, and yet the light thereof is but one: there are many braunces in a tree, and yet but one body of the ſame tree: many riuers doe paſſe from one fountayne, &amp; yet the fountayne is but one: ſo is there no more but one only Church (ſaith <hi>Cypr.</hi>) diſper<g ref="char:EOLhyphen"/>ſed farre and wyde,<note place="margin">De ſimpl. prelat.</note> as appeareth by the particular Churches.</p>
+                     <p>The vnity of the Churche conſiſteth not in a bodily dwelling together, (for that cannot be) nor in the ſame outwarde Ceremonies (wherein the particuler
+<pb facs="tcp:185171:25"/> Churches doe often differ, and maye vſe their liberty to edification) but in an aſſu<g ref="char:EOLhyphen"/>red conſent of doctrine and faith.</p>
+                     <p>
+                        <note place="margin">1. Cor. 10.</note>The <hi>Iſraelites</hi> Churche and ours is one and the ſelfe ſame Church (touching the ſubſtance) for their Church and ours haue the ſame ſacraments,<note place="margin">Aug. Epi. 157</note> the ſame faith, and the ſame ſaluation in &amp; by one com<g ref="char:EOLhyphen"/>fortable <hi>Meſſias.</hi> The difference of times is no reaſon, why the Churches before, vnder, and after the lawe, ſhoulde not bee one Church.<note place="margin">Math. 20.</note> The vineyard in the goſpel was one, &amp; the ſelfe ſame vineyard, albeit at diuers times, diuers were admitted in<g ref="char:EOLhyphen"/>to it.</p>
+                     <p>I confeſſe the Iewes &amp; Gentiles were two before they were vnited in Chriſt, but after they were vnited, they are com<g ref="char:EOLhyphen"/>pared to one body whereof Chriſt is the head,<note place="margin">Epheſ. 2.</note> and to one buylding wherof Chriſt is the foundation &amp; corner ſtone,<note place="margin">Iohn 10.</note> &amp; to one flocke wherof the ſame Ieſus Chriſt is the ſhepheard.</p>
+                  </div>
+                  <div type="part">
+                     <head>7 The eſtate of the Churche in the time of grace is much better then the e<g ref="char:EOLhyphen"/>ſtate of the Churche either before or
+<pb facs="tcp:185171:25"/> vnder the lawe.</head>
+                     <p>THe earth ſhalbe ful of y<hi rend="sup">e</hi> knowledge of the Lorde, as the waters that co<g ref="char:EOLhyphen"/>uer the Sea. <hi>Iſai. chap.</hi> 11. <hi>verſe</hi> 9. The prophet <hi>Eſay</hi> ſpeaketh of churches, which ſhould be aſſembled in the time of the go<g ref="char:EOLhyphen"/>ſpel. It is true, that the Iſraelites were not deſtitute of knowledge: But wee haue greater meaſure of knowledge, the<g ref="char:cmbAbbrStroke">̄</g> they had: for of Chriſtes fulneſſe we haue receiued euen grace for grace. <hi>Ioh. cha.</hi> 1. <hi>ver.</hi> 16.</p>
+                     <p>And it ſhalbe in the laſt dayes, ſayeth God, I will powre out of my ſpirite vp<g ref="char:EOLhyphen"/>pon all fleſhe, and your ſonnes, and your daughters ſhall propheſie &amp;c. <hi>Acts chap.</hi> 2. <hi>ver.</hi> 17. Gods ſpirite is more plentiful in Chriſts time then before. For it is ma<g ref="char:EOLhyphen"/>nifeſt by this place, that as a greater nu<g ref="char:cmbAbbrStroke">̄</g>
+                        <g ref="char:EOLhyphen"/>ber are partakers of Gods ſinguler gra<g ref="char:EOLhyphen"/>ces in Chriſtes time, then either before or vnder the law: ſo they haue larger al<g ref="char:EOLhyphen"/>lowance, &amp; greater meaſure of Gods in<g ref="char:EOLhyphen"/>eſtimable treaſures.</p>
+                     <p>No man hath ſeene God at any time, the onely begotten ſonne, which is in the
+<pb facs="tcp:185171:26"/> boſome of the father, hee hath declared him. <hi>Iohn chap.</hi> 1. <hi>verſe</hi> 18. The E<g ref="char:EOLhyphen"/>uangeliſt <hi>Iohn</hi> ſayeth that Chriſt was in Gods boſome, that is to ſaye, of Gods ſecrete counſell, that wee may be well aſſured, that almightie God doth in the Goſpel open as it were his heart vn<g ref="char:EOLhyphen"/>to vs.</p>
+                     <p>Chriſt was promiſed to the <hi>Iſrae<g ref="char:EOLhyphen"/>lites,</hi> but is geuen to vs. The <hi>Iſraelites</hi> ſawe Chriſt a farre off, we haue him a<g ref="char:EOLhyphen"/>mongeſt vs. The eſtate of the <hi>Iſraelites</hi> may be co<g ref="char:cmbAbbrStroke">̄</g>pared to the breake of the day, the eſtate of the Chriſtians to the broade day light: their eſtate to the ſowing of the corne, ours to the harueſt and reaping of the corne. I confeſſe that the <hi>Iſrae<g ref="char:EOLhyphen"/>lites</hi> had the ſame light that wee haue, and the ſame corne that we haue, though not in like meaſure. For touchinge the ſubſtance of doctrine, the Goſpel hath added nothing to y<hi rend="sup">e</hi> law, becauſe nothing is ſet downe in the Goſpel, whiche is not conteined in the lawe.</p>
+                  </div>
+                  <div type="part">
+                     <pb facs="tcp:185171:26"/>
+                     <head>8 They are not alwaies the Church whiche vaunte themſelues to bee the Church.</head>
+                     <p>THE <hi>Aſſyrian Rabſaketh,</hi>
+                        <note place="margin">2. King. cha. 18.</note> laying ſiege to <hi>Ieruſalem,</hi> vſeth the name of the Lorde agaynſt the people of the Lorde.</p>
+                     <p>
+                        <hi>Zedechias</hi> y<hi rend="sup">e</hi> falſe Prophet in his ſpeech to <hi>Micheas,</hi> boaſted of Gods ſpirite,<note place="margin">1. King. 22.</note> but he was voyd of Gods ſpirit.</p>
+                     <p>The Iewes had ofte<g ref="char:cmbAbbrStroke">̄</g> in their mouthes y<hi rend="sup">e</hi> temple of the Lord, the te<g ref="char:cmbAbbrStroke">̄</g>ple of y<hi rend="sup">e</hi> Lord,<note place="margin">Ier. 7.</note> but they polluted the temple of the Lord.<note place="margin">Iohn 8.</note> They gaue out many times, y<hi rend="sup">t</hi> 
+                        <hi>Abraham</hi> was their father, but they did not the works of <hi>Abraham.</hi>
+                        <note place="margin">Rom. 9.</note> Al they are not <hi>Iſra<g ref="char:EOLhyphen"/>el,</hi> which are of <hi>Iſrael.</hi>
+                     </p>
+                     <p>
+                        <hi>Marcion</hi> the Heretike reiected the Goſpell,<note place="margin">Irenaeus lib. 3 cap. 11.</note> and yet he bragged that he had the Goſpel.</p>
+                     <p>The <hi>Donatiſts</hi> did carry the ſigne of Chriſt againſt Chriſt,<note place="margin">Aug. Epiſt. 61</note> &amp; did bragge of the Goſpel againſt the Goſpel.</p>
+                     <p>The old Emperours of <hi>Rome</hi> after their co<g ref="char:cmbAbbrStroke">̄</g>queſts of cities, had y<hi rend="sup">e</hi> mappes of thoſe cities caried about in their triu<g ref="char:cmbAbbrStroke">̄</g>phs:
+<pb facs="tcp:185171:27"/> the Papiſts after the ouerthrow of Chri<g ref="char:EOLhyphen"/>ſtes Church, vſe in their triumph, the name of the Church, the Churche: but they haue as much right to the name of the Church,<note place="margin">Dan. 5.</note> as the <hi>Babylonians</hi> had to the holy veſſels of the temple of <hi>Ieruſa<g ref="char:EOLhyphen"/>lem,</hi> after the ouerthrow of the City <hi>Ie<g ref="char:EOLhyphen"/>ruſalem.</hi>
+                     </p>
+                  </div>
+                  <div type="part">
+                     <head>9 The viſible Church conſiſteth of good and badde.</head>
+                     <p>BEfore Chriſt ſhalbe gathered all na<g ref="char:EOLhyphen"/>tions,<note place="margin">Mat. 25. ver. 32.</note> and he ſhall ſeparate them one from another, as a ſhepheard ſeparateth the ſheepe from the goates &amp;c. If the ſheepe ſhal not be ſeuered from y<hi rend="sup">e</hi> goates before the day of iudgement, it is mani<g ref="char:EOLhyphen"/>feſt that the badde and good are mingled together in the viſible Church vntil that time.</p>
+                     <p>The viſible Churche is compared to a net,<note place="margin">Mat. 13. Mat. 3. 2. Tim. 2.</note> wherein there are good and badde fiſhes, to a floare wherein there is wheate and chaffe, to a fielde wherein there is both wheate and tares, to a greate houſe wherein there are veſſels of golde and ſil<g ref="char:EOLhyphen"/>uer,
+<pb facs="tcp:185171:27"/> and veſſels of wood and earth,<note place="margin">Mat. 25.</note> and to ten virgins whereof fiue were wiſe, and fiue fooliſh.</p>
+                     <p>In external aſſemblies, the badde are mingled with the good, ſo it was in <hi>Salo<g ref="char:EOLhyphen"/>mons</hi> Temple, &amp; at the marriage feaſt.<note place="margin">Mat. 22. Gen. 4. Gen. 9. Gen. 16. Mat. 26. 2. Pet. 2</note> 
+                        <hi>Cain</hi> ſacrificed as well as <hi>Abel. Cham</hi> was in the Arke as well as <hi>Iaphet. Agar</hi> was in <hi>Abrahams</hi> houſe as well as <hi>Sa<g ref="char:EOLhyphen"/>ra. Iudas</hi> was in Chriſtes company as well as <hi>Peter.</hi> And euill Angels were in heauen till they were caſt our from thence.</p>
+                     <p>When we ſee any which ſeemed to vs goodly members ſometimes of the Church, to become enemies to Gods re<g ref="char:EOLhyphen"/>ligion, and the verye murrayne of the Church, we may not be diſcouraged.<note place="margin">2. Tim. 2.</note> For we muſt remember that the Church is a great houſe, and that if they had been of vs, they ſhould haue continued with vs,<note place="margin">1. Iohn 2.</note> &amp; that many wolues are within the viſible Church, and laſtly that mens ſinnes (as fire couered with Aſhes) are hidden for a time: but afterward appeare in their co<g ref="char:EOLhyphen"/>lours. So did the ſinnes of <hi>Cain, Iudas, Cham, Saul, Demas,</hi> &amp; many others.</p>
+                     <pb facs="tcp:185171:28"/>
+                     <p>
+                        <hi>Queſtion.</hi>
+                     </p>
+                     <p>Why wil almighty GOD haue his Church conſiſt of good and badde?</p>
+                     <p>
+                        <hi>Anſweare.</hi>
+                     </p>
+                     <p>
+                        <note place="margin">Aug. Epiſt. 205.</note>That the good may be exerciſed and tried as gold in the fornace, &amp; that Gods loue may appere more notably which for a very little wheate, ſpareth for a time great ſtore of cares. The <hi>Sodomites</hi> were ſpared becauſe of <hi>Lot,</hi>
+                        <note place="margin">Gen. 19. Acts 27.</note> the <hi>Egypti<g ref="char:EOLhyphen"/>ans</hi> becauſe of <hi>Ioſeph,</hi> they which were in the ſhip becauſe of <hi>Paule.</hi>
+                     </p>
+                     <p>
+                        <hi>Obiection.</hi>
+                     </p>
+                     <p>The Churche is the Communion of Saints, therefore it hath not both good and badde in it.</p>
+                     <p>
+                        <hi>Anſwere.</hi>
+                     </p>
+                     <p>The meaning is not, that all whiche are aſſe<g ref="char:cmbAbbrStroke">̄</g>bled in the Church, are truly ſanc<g ref="char:EOLhyphen"/>tified: but rather, that there is no true communion, no true holineſſe, but in the Church calling it (as we commonly vſe) by the beſt part.</p>
+                  </div>
+                  <div type="part">
+                     <head>10 The particuler Churches are mixt of the elect and reprobate, but they are not called Gods Churches
+<pb facs="tcp:185171:28"/> but for the elects ſake.</head>
+                     <p>The viſible Churche (for the electes ſake) is called the houſe of God,<note place="margin">1. Tim. chap. 3. ver. 15.1.</note> the piller &amp; ground of truth, this cannot be giuen properly to reprobates &amp; hipocrits. For to be an hipocrite, &amp; piller of trueth cannot ſtand together.</p>
+                     <p>The Church is the ſpouſe of Chriſt onely for the elects ſake.<note place="margin">Ephe. chap. 5 ver. 30.</note> For wee are members of his body, of his fleſh, &amp; of his bones. By which words of the Apoſtle, as the ſtraight and neere knot betweene Chriſt the bridegroome, &amp; the Church his ſpouſe doth notably appeare: ſo it were ſtrange dealing to ſhut the reprobates &amp; hipocrites within y<hi rend="sup">t</hi> compaſſe. I confeſſe, y<hi rend="sup">t</hi> Chriſt is ſaid to be the propitiation for the ſinnes of the whole world,<note place="margin">1. Iohn 2.</note> but he is ſo called, becauſe of the wheate, (that is,<note place="margin">Aug. Epiſt. 4 8</note> Gods elect) which is diſperſed through<g ref="char:EOLhyphen"/>out the whole world.</p>
+                     <p>A heape of wheat, though it haue chaffe amo<g ref="char:cmbAbbrStroke">̄</g>gſt it, is not called a heape of chaffe, but a heape of Corne, becauſe it is a heape, by reaſon of the Corne. A tunne of wine, though it haue lees in it,
+<pb facs="tcp:185171:29"/> is called not a tunne of lees, but a tunne of wine, becauſe it is a tunne by reaſon of the wine. No man did euer call that the fielde,<note place="margin">Mat. 13.</note> (wherein the tares appeared with the wheat) a field of tares, but a field of wheate, becauſe it was ſowen with wheate. In like ſort, the viſible Church, though it conſiſt of good and badde, is and muſt be called Gods Church becauſe of the elect.</p>
+                     <p>When we ſay, that the vyne yeeldeth wyne for the vſe of man, we meane not the dead, and withered, but the fruitful braunches of the vine. In like caſe what<g ref="char:EOLhyphen"/>ſoeuer is ſpoken of the church is ſo to be referred to the viſible Church, that it be<g ref="char:EOLhyphen"/>longes to the elect onely, &amp; not to the re<g ref="char:EOLhyphen"/>probates and Hypocrites.</p>
+                  </div>
+                  <div type="part">
+                     <head>11 The externall eſtate of Gods Churche is ſubiect to many chaunges in the world, therefore Gods Churche is not alike viſible at all times.</head>
+                     <p>
+                        <note place="margin">Pſal. 80.</note>GOds Churche is ſometimes compa<g ref="char:EOLhyphen"/>red to a flouriſhing vine, whiche filled the land, and whoſe boughes were like the
+<pb facs="tcp:185171:29"/> goodly cedars, and ſometymes to a vyne deſtroyed by the wild bore,<note place="margin">Aug. Epiſt. 4<gap reason="illegible" resp="#MURP" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>.</note> and eaten vp by the wild beaſts of the field. It is com<g ref="char:EOLhyphen"/>pared to the moone which appeares not alwayes alike vnto vs, &amp; yet neither the moone is deſtitute of light from the ſunn nor the Church of the light of gods ſpirit fro<g ref="char:cmbAbbrStroke">̄</g> the ſonne of righteouſnes Chriſt Ie<g ref="char:EOLhyphen"/>ſus.</p>
+                     <p>In <hi>Enos</hi> tyme the face of the Churche was beautiful,<note place="margin">Gen. 4. Gen. 7.</note> but afterward it was ſhut in <hi>Noes</hi> family as in an Arke.</p>
+                     <p>In the kingdom of <hi>Dauid</hi> religion flouriſhed,<note place="margin">2. Sam. 6.</note> the Church was very glori<g ref="char:EOLhyphen"/>ous, but after his time there was a great Eclipſe, and Gods Church was vnder a blacke cloude.</p>
+                     <p>In the time of the captiuity in <hi>Baby<g ref="char:EOLhyphen"/>lon,</hi>
+                        <note place="margin">Read Dan. Nehem. Ezra.</note> the eſtate of Gods Church was very miſerable, but after the captiuity was ended, and the Iewes returned to <hi>Ieruſa<g ref="char:EOLhyphen"/>lem</hi> vnder <hi>Zorobabel,</hi> the City was buylt, the Temple was repayred, the true worſhippe was reſtored, and the Church of GOD was very faire in the eyes of the <hi>Iſraelites.</hi>
+                     </p>
+                     <p>In what caſe was Gods Churche,
+<pb facs="tcp:185171:30"/> when the horne (that is the Emperors of <hi>Rome</hi>) made battel againſt the Saints,<note place="margin">Dan. chap. 7. ver. 21.</note> &amp; preuayled againſt them?</p>
+                     <p>In y<hi rend="sup">e</hi> time of the Phariſies, Sadduces, &amp;c. Gods church was in a ſtrange pickle, but Chriſt at his comming rayſed it (as it were) from death, and put life into it, and made it very beautiful. Since y<hi rend="sup">t</hi> time, po<g ref="char:EOLhyphen"/>piſh darknes, more then that of Egypt, couered the face of the earth. But in ma<g ref="char:EOLhyphen"/>ny kingdoms &amp; dominions (thanks be to God) <hi>Moſes</hi> rodde hath eate<g ref="char:cmbAbbrStroke">̄</g> vp y<hi rend="sup">e</hi> roddes of y<hi rend="sup">e</hi> 
+                        <hi>Egyptian</hi> ſorcerers, the Lords Arke hath caſt the <hi>Philiſtines Dagon</hi> to the ground, &amp; the ſound preaching of y<hi rend="sup">e</hi> Go<g ref="char:EOLhyphen"/>ſpel hath broke the necke of Popery.</p>
+                     <p>Becauſe Gods Church is not alwaies ſo viſible, it is wel compared to a bunch of grapes, hanging vnder a fewe vine leaues after y<hi rend="sup">e</hi> grape gathering: to an o<g ref="char:EOLhyphen"/>liue remaining vnder y<hi rend="sup">e</hi> leaues after the o<g ref="char:EOLhyphen"/>liue tree is ſhaken: to an eare of Corne ſtanding after harueſt: &amp; to the ſun vnder a blacke clowde.</p>
+                     <p>
+                        <note place="margin">Eſay chap. 49. ver. 21.</note>Gods Church is called deſolate and barre<g ref="char:cmbAbbrStroke">̄</g>, not becauſe it is forſake<g ref="char:cmbAbbrStroke">̄</g> of almigh<g ref="char:EOLhyphen"/>ty GOD, but for that it appeares not
+<pb facs="tcp:185171:30"/> alwayes in the world, &amp; yet Gods church both hath, &amp; ſhalbe alwaies viſible, as it conſiſts of true viſible members, for it is not an imaginary thing.</p>
+                     <p>
+                        <hi>Obiection.</hi>
+                     </p>
+                     <p>My ſpirit, which is vppon thee, &amp; my words whiche I haue put in thy mouth,<note place="margin">Eſay chap. 59. verſ. 21.</note> ſhall not depart out of thy mouth, nor out of the mouth of thy ſeede, nor out of the mouth of the ſeed of thy ſeede, ſaieth the Lorde, from hence foorth euen for euer. Therefore Gods Church ſhalbe alwaies apparantly viſible in the world.</p>
+                     <p>
+                        <hi>Anſweare.</hi>
+                     </p>
+                     <p>The argument folowes not, and is like vnto this. The ſcepter ſhall not departe from <hi>Iuda,</hi>
+                        <note place="margin">Gen. chap. 49. verſ. 10.</note> vntill <hi>Silo</hi> (that is the <hi>Meſſi<g ref="char:EOLhyphen"/>as</hi>) come, therefore there was no inter<g ref="char:EOLhyphen"/>ruption of that viſible Scepter. This is a weake argument, &amp; yet it is as ſtrong as the other: My reaſons are theſe. The Scepter of <hi>Iuda</hi> was not viſible &amp; con<g ref="char:EOLhyphen"/>ſpicuous, when the <hi>Iſraelites</hi> were in captiuity ſeuentie yeeres at <hi>Babylon.</hi> After their returne from y<hi rend="sup">t</hi> captiuity, the <hi>Aſmonits</hi> (which were not of the tribe of
+<pb facs="tcp:185171:31"/> 
+                        <hi>Iuda</hi>) tranſlated the kingly authority to themſelues. Where was all this while the viſible ſucceſſion of the ſcepter in the tribe of <hi>Iuda?</hi> Wee muſt aunſweare that the reliques of the Scepter of <hi>Iuda</hi> was in the ſtocke of <hi>Iſay,</hi>
+                        <note place="margin">Eſay chap. 11. verſ. 1.</note> though it ſee<g ref="char:EOLhyphen"/>med for a time to be altogether withe<g ref="char:EOLhyphen"/>red.</p>
+                     <p>In like ſort, it may be truely ſayde, that, although the face of Gods Church hath byn obſcured, and the viſible ſucceſ<g ref="char:EOLhyphen"/>ſion interrupted, that <hi>Eſayes</hi> Propheſie ſtands ſure &amp; true. For a thing may not be ſaid therefore not to be at all, becauſe it is not after this, or that ſort.</p>
+                     <p>
+                        <hi>Queſtion.</hi>
+                     </p>
+                     <p>Where was the Proteſtants Church two hundred yeeres agoe?</p>
+                     <p>
+                        <hi>Anſweare.</hi>
+                     </p>
+                     <p>It was hidden in the Papacie, as wheate vnder a great deale of chaffe. For of that little ſeede is growne vp a goodly harueſt, and of a few ſparkes a comforta<g ref="char:EOLhyphen"/>ble fire, thanks be to God, hath appeared. It was in the handes of wicked huſband men, which killed the Lords ſeruants, &amp; caſt the ſonne and heyre out of the vine<g ref="char:EOLhyphen"/>yarde,
+<pb facs="tcp:185171:31"/> and did their beſt to kill him. Be<g ref="char:EOLhyphen"/>ſides, who knowes not, that there ſhould be a departing (from the faith) and that Antichriſt ſhould ſitte as God in the tem<g ref="char:EOLhyphen"/>ple of GOD, and deceiue all the world.<note place="margin">2. Theſſ. 2.</note> (This Antichriſt we take to be the By<g ref="char:EOLhyphen"/>ſhoppe of <hi>Rome,</hi> not meaning any one ſinguler man, but the ſucceſſion of Bi<g ref="char:EOLhyphen"/>ſhops there, ſince their Apoſtaſie from Gods religion: and this interpretation is ſubſtantially proued by ſome excelle<g ref="char:cmbAbbrStroke">̄</g>t men of our ſide) during all this time of darkeneſſe and tyranny, coulde Gods church appeare beautifully in the world? Was it not with the woman in the wil<g ref="char:EOLhyphen"/>derneſſe,<note place="margin">Apoc. 12. Mat. 2. 1. King. 19.</note> and with Chriſt and his parents in <hi>Egypt? Elias</hi> did thinke that himſelfe remayned alone of all Gods children in the time of <hi>Achab</hi> and <hi>Iezabel,</hi> but there were ſeuen thouſa<g ref="char:cmbAbbrStroke">̄</g>d beſides, which bow<g ref="char:EOLhyphen"/>ed not their knees to <hi>Baal.</hi> If <hi>Elias</hi> which was a holy prophet was farre ſhorte and wyde in this reckoning and account of Gods ſeruants, is it not both poſſible &amp; likely, that the enemies of our Churche are greatly ouerſeen in the numbring of our Churches?</p>
+                  </div>
+                  <div type="part">
+                     <pb facs="tcp:185171:32"/>
+                     <head>12 The viſible Churche muſt not bee tyed to any place or perſons.</head>
+                     <p>
+                        <note place="margin">1. Sam. 4.</note>ALmighty God was ſerued in <hi>Silo</hi> vn<g ref="char:EOLhyphen"/>till y<hi rend="sup">e</hi> death of <hi>Heli:</hi> but when Gods religion was defiled by the wickednes of the prieſts &amp; vnthankfulnes of the people <hi>Silo</hi> was deſtroyed.<note place="margin">Iere. 7.</note>
+                     </p>
+                     <p>The children of <hi>Iſrael</hi> (ſaith <hi>Hoſeas</hi>) ſhall ſit many dayes without a king,<note place="margin">Hoſ. 3. ver. 4.</note> and without a Prince, &amp; without an offring, and without an altar, and without an E<g ref="char:EOLhyphen"/>phod: That is to ſay, they ſhal haue ney<g ref="char:EOLhyphen"/>ther king to gouerne them, nor prieſt to teach the<g ref="char:cmbAbbrStroke">̄</g> Gods religion. If the Churche were tyed either to place or perſons, no ſuch thing had fallen out amongſt them.</p>
+                     <p>
+                        <hi>Bethel</hi> was Gods houſe, but after that it was defiled with idolatry &amp; ſuperſtitio<g ref="char:cmbAbbrStroke">̄</g>, it was called <hi>Bethauen,</hi> that is, the houſe of iniquity.</p>
+                     <p>
+                        <hi>Ieruſalem</hi> was a famous Church, and enriched with heapes of Gods benefites, it was Gods ſanctuary, and the ſeat of y<hi rend="sup">e</hi> kingdome &amp; prieſthood which were moſt precious iewels, it was the fountayne of Gods religion, &amp; as it were the ſtarre of
+<pb facs="tcp:185171:32"/> the world. The Lord had ſo great delight in <hi>Ieruſalem,</hi> that he did as it were bynde himſelfe to it:<note place="margin">Pſal. 132. ver. 14.</note> this is my reſt (ſaieth the Lord) for euer, here will I dwell, for I haue a delight therein. But becauſe they of <hi>Ieruſalem</hi> diſhonoured God, trode his religion vnder their feet, liued mo<g ref="char:cmbAbbrStroke">̄</g>ſtrouſ<g ref="char:EOLhyphen"/>ly, &amp; went about to quenche the doctrine of y<hi rend="sup">e</hi> prophets with y<hi rend="sup">e</hi> blood of y<hi rend="sup">e</hi> prophets, almighty God did ſet them at nought, &amp; gaue them ouer (as a pray) to their ene<g ref="char:EOLhyphen"/>mies. For <hi>Ieruſalem</hi> was taken &amp; ouer<g ref="char:EOLhyphen"/>thrown, their ſtately temple was deſtroi<g ref="char:EOLhyphen"/>ed according to the propheſies of Chriſt and <hi>Ieremy,</hi>
+                        <note place="margin">Math. 24. Iere. 26.</note> by <hi>Titus</hi> the ſonne of <hi>Veſ<g ref="char:EOLhyphen"/>paſian:</hi> ſo y<hi rend="sup">t</hi> 
+                        <hi>Ieruſalem</hi> which was ſome<g ref="char:EOLhyphen"/>times a goodly Theatre of Gods glory, is at this day a notable monument of his iudgements.</p>
+                     <p>The Churche of <hi>Rome</hi> was ſome<g ref="char:EOLhyphen"/>times a famous Churche in the Weſt,<note place="margin">Rom. 1. &amp; 6. &amp; 16. chap.</note> and was greatly commended by Saynt Paule in the Epiſtle to the <hi>Romaines,</hi> but nowe it is an enimye to the weigh<g ref="char:EOLhyphen"/>ty poyntes of religion contayned in that Epiſtle.</p>
+                     <p>The Church of England is a goodly
+<pb facs="tcp:185171:33"/> Church: It hath pleaſed God to powre his bleſſing vpon it with a full horne. The particulers of Gods fauour are written in ſo great and faire letters, that he that runnes may reade them. If our thankfulneſſe to his Maieſty appeare in our liues, he will multiply his bleſſings vpon vs. If we faile in performing this duetie, that is to ſay, if we profeſſe reli<g ref="char:EOLhyphen"/>gion only for a faſhion, and vſe it (as a cloake) to couer our Church polling, op<g ref="char:EOLhyphen"/>preſſion, and other foule actions, GOD will ſweepe vs with the beſome of de<g ref="char:EOLhyphen"/>ſtruction. If we thinke that the viſerd of godlineſſe and religion will ſerue the turne, and ſtand as a wall between vs &amp; Gods heauy iudgementes, wee are in a groſſe errour. For if Mou<g ref="char:cmbAbbrStroke">̄</g>t <hi>Sion</hi> and the temple of <hi>Ieruſalem,</hi> coulde not deliuer the <hi>Iſraelites</hi> from ſuch meaſure, as <hi>Silo</hi> had, the bare name and face of the Goſpel and religion wil not deliuer vs from be<g ref="char:EOLhyphen"/>yng meaſured with the lyne of <hi>Samaria.</hi> God be mercifull to this Church &amp; land, and giue vs grace to be thankfull for his mercies, and to be afrayde of his iudge<g ref="char:EOLhyphen"/>mentes.</p>
+                     <pb facs="tcp:185171:33"/>
+                     <p>The <hi>Donatiſtes</hi> in <hi>Auguſtines</hi> time, did tye Gods Church to a corner of <hi>Af<g ref="char:EOLhyphen"/>frike.</hi>
+                        <note place="margin">Ang. Epi. 50. &amp; 161.</note> The Phariſies did tye Gods reli<g ref="char:EOLhyphen"/>gion to <hi>Ieruſalem,</hi> but they were fowlly deceiued. for Gods Church is not tyed to any certayne place, but rather to Gods word, and ſacraments, and to godly obe<g ref="char:EOLhyphen"/>dience, to his holy Goſpel, ſo y<hi rend="sup">t</hi> whereſo<g ref="char:EOLhyphen"/>euer God is truely ſerued, that people is <hi>Iuda</hi> and <hi>Iſrael,</hi> that city is <hi>Ieruſalem,</hi> that houſe is Gods houſe.</p>
+                  </div>
+                  <div type="part">
+                     <head>13 Gods Church cannot be quen<g ref="char:EOLhyphen"/>ched.</head>
+                     <p>GOds Churche is compared to the buſhe, which burnt with fire,<note place="margin">Exod. 3.</note> but was not conſumed:<note place="margin">Gen. 15.</note> it is compared to a fire<g ref="char:EOLhyphen"/>brand, ſhyning in the middeſt of a ſmoa<g ref="char:EOLhyphen"/>king fornace.</p>
+                     <p>Gods Church is grauen in the palme of the Lordes hande, it is as the apple of his eye, it is Gods inheritaunce, it is, as arrowes in the Lordes quiuer, it is a Crowne of glorye in his hande,<note place="margin">Eſay 62.</note> and a royall Diademe in the hand of almighty God.</p>
+                     <pb facs="tcp:185171:34"/>
+                     <p>Gods Church is like to Camomile, which thriues beſt when it is trode<g ref="char:cmbAbbrStroke">̄</g> on, &amp; to the Palme tree whiche flouriſhes moſt whe<g ref="char:cmbAbbrStroke">̄</g> weight is layd vpon it.<note place="margin">Tertu. ad Sca.</note> Chriſtianity growes fayreſt whe<g ref="char:cmbAbbrStroke">̄</g> it is vnder the croſſe.</p>
+                     <p>
+                        <note place="margin">Acts 8.</note>The primitiue Church was greeuouſly perſecuted after the death of S. <hi>Stephen,</hi> but it increaſed the more. For whereas the Church before that time, was ſhut vp (as it were) within the walles of <hi>Ieruſa<g ref="char:EOLhyphen"/>lem,</hi> after the diſperſion of the godlye by reaſon of that perſecution, <hi>Samaria</hi> and <hi>Antiochia</hi> became goodly Churches.<note place="margin">Acts 11.</note> Gods enemies deſerue no tha<g ref="char:cmbAbbrStroke">̄</g>ks for this, but almighty God doth, whiche fetcheth light out of darkeneſſe, &amp; life out of death.</p>
+                     <p>Gods enimies doe what they can to caſt Gods Church into the bottom of the Sea, but they labour in vayne. No man can ſtay the flowing of the ſea, nor bynd the wings of the wynd, nor darken the beames of the ſunne. The grayne of mu<g ref="char:EOLhyphen"/>ſtard ſeede will be a tree for the byrdes to make their neſts in,<note place="margin">Mat. 13.</note> &amp; Gods Churche will be aliue, notwithſtanding al the ſub<g ref="char:EOLhyphen"/>tiltie and violence of the enemies.</p>
+                  </div>
+                  <div type="part">
+                     <pb facs="tcp:185171:34"/>
+                     <head>14 God hath his Church alwaies in the earth.</head>
+                     <p>CErtayne <hi>Paganes</hi> affirmed,<note place="margin">Aug. de ciuit. Dei lib. 18. cap. 54.</note> y<hi rend="sup">t</hi> Chri<g ref="char:EOLhyphen"/>ſtian religion, ſhould not continue a<g ref="char:EOLhyphen"/>boue three hundred ſixty fiue yeeres, but they were fowlly deceiued.<note place="margin">Eſay chap. 8.</note>
+                     </p>
+                     <p>The Prophet <hi>Eſay</hi> liued in a ſtraunge time, yet he had diſciples, amongſt who<g ref="char:cmbAbbrStroke">̄</g> he ſealed the law of God.</p>
+                     <p>The Apoſtle aſking,<note place="margin">Rom. 11.</note> whether GOD hath caſt away his people, anſweres, God forbidde.</p>
+                     <p>Except the Lord of hoſts had reſerued vnto vs euen a ſmall remnant,<note place="margin">Eſay 1.</note> we ſhould haue beene as <hi>Sodome,</hi> and ſhoulde haue beene like <hi>Gomorrha</hi> (that is) vt<g ref="char:EOLhyphen"/>terly deſtroyed.</p>
+                     <p>
+                        <hi>Ezra</hi> ſpeakes thus of himſelfe, &amp; the <hi>Iſ<g ref="char:EOLhyphen"/>raelites</hi> after the returne from <hi>Babylon,</hi> from the dayes of our fathers haue wee beene in a great treſpaſſe vnto this day, &amp; for our iniquities haue we, our kinges, (and) our prieſts beene deliuered into the hand of the kinges of the lands, vnto the ſword, into captiuity, into a ſpoyle, &amp; into confuſion of face, as (appeareth) this day:
+<pb facs="tcp:185171:35"/> and now for a little ſpace, grace hath byn ſhewed from the Lorde our God in cau<g ref="char:EOLhyphen"/>ſing a remnant to eſcape, and in giuing vs a naile in his holy place, that our God may light our eyes, and giue vs a little reuiuing in our ſeruitude. For, though we were bondmen, yet our God hath not forſaken vs in our bondage: but hath in<g ref="char:EOLhyphen"/>clyned mercy vnto vs in the ſight of the kinges of <hi>Perſia,</hi> to giue vs life, and to erect the houſe of our GOD, and to re<g ref="char:EOLhyphen"/>dreſſe the deſolate places thereof, and to giue vs a wall in <hi>Iuda</hi> and in <hi>Ieruſalem. Ezra chap.</hi> 9. <hi>ver.</hi> 7.8.9. By whiche wordes it is euident, that albeit Gods Church lyeth hid ſometimes as it were vnder a blacke cloth, yet it is not clearly put out, but appeareth agayne.</p>
+                     <p>Thus ſaith the Lorde, whiche giueth the ſunne for a light to the day, and the courſes of the Moone, and of the ſtarres for alight to the night, whiche breaketh the Sea, when the waters thereof roare, his name (is) the Lord of hoſtes. If theſe ordinances depart out of my ſight (ſaith the Lorde) then ſhall the ſeede of <hi>Iſrael</hi> ceaſe from being a nation before me for e<g ref="char:EOLhyphen"/>uer.
+<pb facs="tcp:185171:35"/> Thus ſaith the Lorde, if the heaue<g ref="char:cmbAbbrStroke">̄</g>s can be meaſured, or the foundations of the earth be ſearched out beneath, then wil I caſt off all the ſeede of <hi>Iſrael,</hi> for al that they haue done ſaith the Lord. <hi>Iere. chap.</hi> 31. <hi>ver.</hi> 35.36.37. The ſumme of theſe words is this: Almighty God will continue the courſe of the ſunne and the moone, &amp;c. Whileſt the worlde laſteth. Therefore he will preſerue his Church, for whoſe benefite eſpecially, the worlde was created. And yet wee muſt remem<g ref="char:EOLhyphen"/>ber, that the condition of Gods Churche dependes not of the nature of the world, or courſe of the heauens. For they ſhall periſhe (ſaith <hi>Dauid</hi> to Almighty God) but thou ſhalt endure, euen they all ſhall waxe old, as doth a garment: as a veſture ſhalt thou change them, and they ſhal be chaunged: but thou art the ſame, and thy yeeres ſhall not fayle. The children of thy ſeruants, ſhal continue, and their ſeed ſhall ſtand faſt in thy ſight. <hi>Pſal.</hi> 102. <hi>ver.</hi> 26.27.28.</p>
+                     <p>Thus ſaith the Lorde, as the wine is found in the cluſter, and one ſaith, deſtroy it not for a bleſſing (is) in it: ſo will I
+<pb facs="tcp:185171:36"/> do for my ſeruants ſakes, that I may not deſtroy them whole. But I will bring a ſeed out of <hi>Iacob,</hi> &amp; out of <hi>Iuda,</hi> that ſhall inherite my mountayne, and mine elect ſhall inherite it, &amp; my ſeruants ſhall dwel there. <hi>Iſa.</hi> 65. <hi>ver.</hi> 8.9. When almightye God threatens deſtruction to the people, he reſpecteth the body of the people, in who<g ref="char:cmbAbbrStroke">̄</g> there is no ſincerity: but when his maieſty reſtraynes his puniſhment, he re<g ref="char:EOLhyphen"/>ſpecteth a ſmal number, which is the ſeed of the Church.</p>
+                     <p>The corruption of the viſible Church, is no hinderance, but that almighty God may preſerue the Church of his elect: &amp; Gods promiſes of the perpetual eſtate of the Churche, pertayne properly to the Church of the elect.</p>
+                  </div>
+                  <div type="part">
+                     <head>15 The reprobates are not of the Church.</head>
+                     <p>
+                        <note place="margin">Ephe. 5.</note>TO be of the Church is to be vnited with Chriſt, the reprobates are not vnited with Chriſt.</p>
+                     <p>The Churche is the body of Chriſt, Chriſt is the Sauiour of his body. If the
+<pb facs="tcp:185171:36"/> reprobates were of the Church (that is of Chriſtes body) they ſhould be ſaued as in deed they ſhall neuer be.</p>
+                     <p>Chriſt which is the head of the church,<note place="margin">Ephe. 4.</note> giueth ſpirite and life to his church. But he giueth neither ſpirit nor life to the re<g ref="char:EOLhyphen"/>probates.</p>
+                     <p>It is vnpoſſible for one &amp; the ſelfe ſame man to be the member of Chriſt,<note place="margin">Cont. Creſc. Gram. lib. 2. cap. 21.</note> and the member of the Diuel. God forbid y<hi rend="sup">t</hi> theſe monſters (<hi>Auguſtine</hi> ſpeakes of wic<g ref="char:EOLhyphen"/>ked men) ſhoulde be accounted eyther a<g ref="char:EOLhyphen"/>mongſt the members of the only doue (y<hi rend="sup">t</hi> is Gods church) or enter into the incloſed garden.</p>
+                     <p>I confeſſe y<hi rend="sup">t</hi> the reprobates are, &amp; may be many times in the Church (that is in the aſſemblies of Gods ſeruants) but of y<hi rend="sup">e</hi> Church they neither are, nor can be truly accounted.</p>
+                  </div>
+                  <div type="part">
+                     <head>16 Succeſſion of Biſhops is not an in<g ref="char:EOLhyphen"/>fallible argument of Gods Church.</head>
+                     <p>IF perſonall ſucceſſion (not hauing the ſucceſſion of doctrine ioyned to it as y<hi rend="sup">e</hi> fou<g ref="char:cmbAbbrStroke">̄</g>datio<g ref="char:cmbAbbrStroke">̄</g> therof) were an infallible marke of
+<pb facs="tcp:185171:37"/> the true Church, then muſt we confeſſe, y<hi rend="sup">t</hi> Gods grace and ſpirite are tyed to ſeates and countries, which is a groſſe abſurdi<g ref="char:EOLhyphen"/>tie.</p>
+                     <p>
+                        <note place="margin">2. Theſ. 2.</note>Ordinary and viſible ſucceſſion in the Church may be interrupted. For <hi>Paul</hi> did foretell that there ſhoulde be a departing from the faith. Apoſtaſie and ſucceſſion, can no more ſtand together the<g ref="char:cmbAbbrStroke">̄</g> the Arke and <hi>Dagon,</hi> then Chriſt and Antichriſt. Beſides, the ordinary ſucceſſion of prieſts was interrupted in the <hi>Iſraelites</hi> church, and yet God had his Churche there,<note place="margin">1. King. 19.</note> I meane them whiche retayning Gods trueth, did not bowe their knees vnto <hi>Baal.</hi>
+                     </p>
+                     <p>When Chriſt came into the worlde to be our mediatour, was Gods Churche to be meaſured by the viſible ſucceſſion of Biſhops?</p>
+                     <p>Hereticall Biſhops might vaunt of ſuc<g ref="char:EOLhyphen"/>ceſſion in very famous Churches, <hi>Pau<g ref="char:EOLhyphen"/>lus Samoſatenus</hi> (which was a mo<g ref="char:cmbAbbrStroke">̄</g>ſtrous Heretike) ſucceeded Godly Biſhops in the Church of <hi>Antioch,</hi> &amp; diuers <hi>Arians</hi> ſucceeded <hi>Athenaſius</hi> in the Church of <hi>Alexandria.</hi>
+                     </p>
+                     <pb facs="tcp:185171:37"/>
+                     <p>The ſucceſſion of Biſhops both was, &amp; is, continued in the Greeke Church, and yet the popiſh ſort wil not allow the chur<g ref="char:EOLhyphen"/>ches of <hi>Grecia,</hi> to be Chriſtes Churches, becauſe they diſſent from the Church of Rome.</p>
+                     <p>The auncient writers, <hi>Tertullian,</hi>
+                        <note place="margin">Tertul. de praeſcrip.</note> 
+                        <hi>Ire<g ref="char:EOLhyphen"/>neus,</hi> (when they would confute <hi>Marci<g ref="char:EOLhyphen"/>on</hi> and <hi>Vallentinus,</hi>) proued that, (not thoſe Heretikes,<note place="margin">Iren. li. 3. ca. 2.</note> but) themſelues had y<hi rend="sup">e</hi> ſucceſſion of Gods truth amongeſt them. Whe<g ref="char:cmbAbbrStroke">̄</g> theſe godly fathers had made that cleare, they ſet downe the ſucceſſion and row of Biſhops, as badges of their victo<g ref="char:EOLhyphen"/>ry: ſo that the ſucceſſion of faith, and re<g ref="char:EOLhyphen"/>ligion may be truely accounted as the life and ſoule, and the ſucceſſion of Bi<g ref="char:EOLhyphen"/>ſhops, as the body. If perſonall ſucceſſi<g ref="char:EOLhyphen"/>on be without y<hi rend="sup">e</hi> ſucceſſio<g ref="char:cmbAbbrStroke">̄</g> of Gods truth, it wants life, &amp; is a dead and vnprofitable carcaſe. I confeſſe that the ſucceſſion of Biſhops (as a goodly and beautiful buil<g ref="char:EOLhyphen"/>ding) is of great force to allure the<g ref="char:cmbAbbrStroke">̄</g> which are alients from the Church, to looke in<g ref="char:EOLhyphen"/>to, &amp; to behold the inward beauty of the church: but if the precious iewel of Gods word be wanting, the perſonal ſucceſſion
+<pb facs="tcp:185171:38"/> is like a coſtly tombe, which is beautifull without, but is full of dead mens bones within.<note place="margin">Lib. 4. cap. 43. &amp; 45.</note> 
+                        <hi>Ireneus</hi> ioyneth together the ſuc<g ref="char:EOLhyphen"/>ceſſion of perſons and doctrine.</p>
+                     <p>If the Papiſts (which haue not ſucceſ<g ref="char:EOLhyphen"/>ſion of Gods truth) bragge of ſucceſſio<g ref="char:cmbAbbrStroke">̄</g> of Biſhops, we may ſay to their Biſhoppes as <hi>Tertullian</hi> ſaid to <hi>Marcion</hi> the Heri<g ref="char:EOLhyphen"/>tike,<note place="margin">Tertul. lib. 1. cont. Mar.</note> who are ye, when, and from whence came yee?</p>
+                     <p>The ſucceſſion of Biſhops without ſuc<g ref="char:EOLhyphen"/>ceſſion of Gods truth, is like a paire of popiſh beades, which hang by a long, but yet by a ſclender threed.</p>
+                     <p>That is the true and lawfull ſucceſſi<g ref="char:EOLhyphen"/>on of Biſhops, when as lawfull Biſhops ſucceeding one another, doe exerciſe the worke of their miniſtery.</p>
+                  </div>
+                  <div type="part">
+                     <head>17 Antiquitie is no ſure argument of Gods Church.</head>
+                     <p>THe Iewes conſenting that the <hi>Meſ<g ref="char:EOLhyphen"/>ſias</hi> is not yet come, is of greater continuance then popery is, but continu<g ref="char:EOLhyphen"/>ance of time cannot make that good in re<g ref="char:EOLhyphen"/>ligion, which was bad at the firſt. Anti<g ref="char:EOLhyphen"/>quity,
+<pb facs="tcp:185171:38"/> if it haue not the ſalt of Gods word to preſerue it, doth argue rottenneſſe, and giues an euil ſent.</p>
+                     <p>Your iniquities,<note place="margin">Eſay chap. 65. ver. 7.</note> &amp; the iniquities of your fathers (ſhalbe) together ſaith the Lorde, which haue burnt incenſe vpon the mountaines, and blaſphemed me vpon y<hi rend="sup">e</hi> hilles: therfore wil I meaſure their olde worke into their boſome. If antiquitye woulde haue ſerued y<hi rend="sup">e</hi> turne of the <hi>Iſrae<g ref="char:EOLhyphen"/>lites,</hi> almighty God might haue bin chal<g ref="char:EOLhyphen"/>lenged for puniſhing their auncie<g ref="char:cmbAbbrStroke">̄</g>t idola<g ref="char:EOLhyphen"/>try and ſuperſtition.</p>
+                     <p>Ye haue heard that it was ſaide vnto them of old time, thou ſhalt not kill. For whoſoeuer killeth, ſhall bee culpable of iudgement. But I ſay vnto you: whoſoe<g ref="char:EOLhyphen"/>uer is angrye with his brother vn<g ref="char:EOLhyphen"/>aduiſedly, ſhalbe culpable of iudgement. <hi>Mat.</hi> 5. <hi>ver.</hi> 21.22. The phariſies cleared him of murder, which had not killed a ma<g ref="char:cmbAbbrStroke">̄</g> with his hand, becauſe the Phariſies al<g ref="char:EOLhyphen"/>leaged antiquity for their errour: our Sauiour Chriſt refutes them by his owne authority: But I ſay vnto you, &amp;c. <hi>ver.</hi> 22.</p>
+                     <p>There were ill buylders in <hi>Pauls</hi> time,<note place="margin">1. Cor. 3.</note>
+                        <pb facs="tcp:185171:39"/> and ſuch abuſes crept into the Lords ſup<g ref="char:EOLhyphen"/>per in <hi>Corinth,</hi>
+                        <note place="margin">1. Cor. 11.</note> that y<hi rend="sup">e</hi> Apoſtle was com<g ref="char:EOLhyphen"/>pelled to ſay (this) is not to eat the Lords ſupper.</p>
+                     <p>They which reaſon thus: ſuche a reli<g ref="char:EOLhyphen"/>gion is olde, therefore it is good, may be anſwered: y<hi rend="sup">t</hi> this argume<g ref="char:cmbAbbrStroke">̄</g>t is as cleere as midnight: the enchantmentes of <hi>Simon Magus,</hi>
+                        <note place="margin">Acts 8. &amp; 19. chap.</note> the image which came down fro<g ref="char:cmbAbbrStroke">̄</g> 
+                        <hi>Iupiter,</hi> the religion of Rome, are of great antiquity, &amp; yet Gods religion is more ancient then any of theſe:<note place="margin">Tertul. lib. 1. cont. Mar. <gap reason="illegible" resp="#MURP" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>
+                        </note> for truth is older then hereſie.</p>
+                     <p>When we heare any Papiſt ſaye: I haue byn brought vp in the religion of Rome, therfore I will continue in it, and will not be wonn fro<g ref="char:cmbAbbrStroke">̄</g> it: we may anſwere him, that wiſe men haue their ſeconde thoughtes,<note place="margin">Euripides in Hippol. Cyp. ad Iu<g ref="char:EOLhyphen"/>baian, ad Quin fratrem &amp; de lapſis.</note> and that we may not erre al<g ref="char:EOLhyphen"/>waies, becauſe ſomtimes we erred, &amp; that we are not ouercome, but inſtructed, whe<g ref="char:cmbAbbrStroke">̄</g> better things are offred vnto vs, &amp; y<hi rend="sup">t</hi> he is not ioyned to the Church, which is ſepa<g ref="char:EOLhyphen"/>rate fro<g ref="char:cmbAbbrStroke">̄</g> the goſpel. Some of the Popiſhe ſort haue bin co<g ref="char:cmbAbbrStroke">̄</g>tent to ſay, if the Church of Rome woulde allow the religion, wee haue in England, that they would like of
+<pb facs="tcp:185171:39"/> it. <hi>Tichonius</hi> a Donatiſt ſaid of himſelfe, &amp; his fellow Donatiſts, that,<note place="margin">Aug. Epiſt. 48.</note> which wee wil is holy. <hi>Tiberius</hi> the Emperour, put vp a grace in the Senate houſe of Rome,<note place="margin">Euſeb. lib. 2. cap. 2.</note> that Chriſt might be a God, becauſe the Senate denied y<hi rend="sup">t</hi> grace, it is ſet downe a little after in that Chapter, vnleſſe God pleaſe man, he is not allowed for a God. In like ſorte, if our religion had the Popes hande and ſeale vnto it, the Po<g ref="char:EOLhyphen"/>piſh ſort would allow it: becauſe it hath not his holineſſe warrant, they refuſe it.</p>
+                     <p>
+                        <hi>Queſtion.</hi>
+                     </p>
+                     <p>How can it be, that God ſhoulde ſuffer his Church to erre ſo many yeeres?</p>
+                     <p>
+                        <hi>Anſwerre.</hi>
+                     </p>
+                     <p>God ſuffered not his Church to erre ſo lo<g ref="char:cmbAbbrStroke">̄</g>g a time, but he ſuffered wicked me<g ref="char:cmbAbbrStroke">̄</g> eue<g ref="char:cmbAbbrStroke">̄</g> by his iuſt iudgement (which beleeued not the trueth, that they might be ſaued) to beleeue lyes, and haue pleaſure in vn<g ref="char:EOLhyphen"/>righteouſneſſe, that they might bee damned. 2. <hi>Theſſal.</hi> 2. <hi>ver.</hi> 10.11.12.</p>
+                  </div>
+                  <div type="part">
+                     <pb facs="tcp:185171:40"/>
+                     <head>18 Euery vnity is not a ſure argu<g ref="char:EOLhyphen"/>ment of the true Churche, neither is e<g ref="char:EOLhyphen"/>uery diſcorde a ſure argument of a falſe Church.</head>
+                     <p>THe Iewes, which thinke, that y<hi rend="sup">e</hi> 
+                        <hi>Meſ<g ref="char:EOLhyphen"/>ſias</hi> is not yet come, haue had vnity many yeres: but their conſent proues the<g ref="char:cmbAbbrStroke">̄</g> not to be Gods Church.</p>
+                     <p>
+                        <note place="margin">Acts 19.</note>
+                        <hi>Demetrius</hi> the ſiluer ſmith &amp; his com<g ref="char:EOLhyphen"/>pany in <hi>Epheſus</hi> were at great vnity for the vpholding of <hi>Diana</hi> againſt S. <hi>Pauls</hi> preaching: but that vnity was no argu<g ref="char:EOLhyphen"/>ment, that they were Gods Church.</p>
+                     <p>
+                        <note place="margin">Apoc. cap. 14. ver. 8.</note>The Angel ſaith, that <hi>Babylon</hi> made all nations to drinke of the wine of the wrath of her fornication. Therefore the generall conſent and vnity of al nati<g ref="char:EOLhyphen"/>ons in religion, doth not make a true re<g ref="char:EOLhyphen"/>ligion.</p>
+                     <p>The <hi>Arrians, Neſtorians, Eutichians,</hi> &amp; the blaſphemous Heretikes of the fami<g ref="char:EOLhyphen"/>ly of loue, haue, &amp; doe conſe<g ref="char:cmbAbbrStroke">̄</g>t in their blaſ<g ref="char:EOLhyphen"/>phemous opinions, but this conſent of theirs, prooues them not to be the true Church of God.</p>
+                     <p>Vnity in the eſſential points of Gods
+<pb facs="tcp:185171:40"/> religion is an infallible argument of the Church of God.</p>
+                     <p>Euery diſcord is not an argument of a falſe church.<note place="margin">1. Cor. 1. &amp; 11. cha.</note> There were diſſentions in y<hi rend="sup">e</hi> church of <hi>Corinth,</hi> and yet God had his church at <hi>Corinth.</hi> The Biſhops whiche were aſſembled in the <hi>Nicene</hi> counſell a<g ref="char:EOLhyphen"/>gainſt <hi>Arrius</hi> were at greate variance: Notwithſtanding they were Gods ſer<g ref="char:EOLhyphen"/>uants. The Eaſt &amp; Weſt Churches were greatly deuided about the feaſt of Eaſter: and yet they were the Churches of God.<note place="margin">Acts 15 Galat. 2. Aug. Epiſt. 9.</note> There was hot ſtirre betweene <hi>Paule</hi> &amp; <hi>Barnabas,</hi> betweene <hi>Paule</hi> &amp; <hi>Peter,</hi> be<g ref="char:EOLhyphen"/>tweene <hi>Auguſtine</hi> &amp; <hi>Hierome,</hi> &amp; yet all theſe were Gods ſeruants.</p>
+                     <p>Gods truth ſometimes deuideth the faithfull amongeſt themſelues.<note place="margin">Iohn chap. 6. ver. 66.</note> Chriſtes ſermon that his fleſh was the true meate, was an vndoubted truth: yet it made a partition between the twelue, &amp; the other which beleeued in Chriſt.</p>
+                     <p>I confeſſe that Gods ſpirite is the ſpi<g ref="char:EOLhyphen"/>rite of peace &amp; vnitie. This ſpirit ſhould wholly poſſeſſe vs, if we were wholly re<g ref="char:EOLhyphen"/>generate: But the beſt men are ſhorte of that.</p>
+                  </div>
+                  <div type="part">
+                     <pb facs="tcp:185171:41"/>
+                     <head>19 Multitude is not an infallible argument of Gods Church.</head>
+                     <p>
+                        <note place="margin">Gen. 7. 1. King. 19. &amp; 22. chap.</note>IN the times of <hi>Noe, Elias, Micheas, &amp;c.</hi> The greater part was the woorſe part, when the x. tribes did ſet the<g ref="char:cmbAbbrStroke">̄</g>ſelues a<g ref="char:EOLhyphen"/>gainſt the tribe of <hi>Iuda</hi> Gods Churche was in <hi>Iuda.</hi>
+                     </p>
+                     <p>Except the Lord of hoſts had reſerued vnto vs, euen a ſmall remnant, we ſhould haue beene as <hi>Sodome,</hi>
+                        <note place="margin">Eſay 1. ver. 9</note> and ſhould haue beene like vnto <hi>Gomorrha.</hi> Whereby it is manifeſt, that Gods Church was very little, and that the greater number was the worſe.</p>
+                     <p>Enter in at the ſtraight gate, for it is the wide gate &amp; broade way that leeadeth to deſtruction, &amp; many there be, which go in thereat: becauſe the gate is ſtraight &amp; the way narrow, y<hi rend="sup">t</hi> leadeth vnto life, and fewe there be that find it. <hi>Mat.</hi> 7. <hi>ver.</hi> 13.14. If the multitude had byn an argume<g ref="char:cmbAbbrStroke">̄</g>t of the Church, Chriſtes ſpeech were not to be liked of.</p>
+                     <p>Chriſt calles his flocke, a little flock, &amp; Chriſt himſelfe was condemned to death by the greater number of the Iewes.<note place="margin">Luke 12. Math. 27.</note>
+                     </p>
+                     <pb facs="tcp:185171:41"/>
+                     <p>It is ſaide, that Satan deceiueth all the worlde. <hi>Apo,</hi> 12. <hi>and</hi> 20.</p>
+                     <p>As the greater number is no ſure proofe of the Church, if they haue not the markes of the Church amongeſt them: ſo is not the leſſe number an argument of Gods church, vnleſſe they haue the eſſen<g ref="char:EOLhyphen"/>tiall markes of Gods Church amongeſt them, if they may be come by.</p>
+                  </div>
+                  <div type="part">
+                     <head>20 The Church is not to bee mea<g ref="char:EOLhyphen"/>ſured by the externall ſhewe,</head>
+                     <p>Reioyce, thou barren,<note place="margin">Gal. 4.</note> that beareſt no children &amp;c? If the Apoſtle out of the prophet Eſay call the Churche barren, it is a good leſſon to teache vs not to mea<g ref="char:EOLhyphen"/>ſure the church alwaies by the outwarde ſhew.<note place="margin">Eſay. 53.</note> Chriſte the bridegrome was ſo af<g ref="char:EOLhyphen"/>flicted that hee had neither forme nor beautie: When the Churches caſe is ſuch, we muſt remember that it is Chri<g ref="char:EOLhyphen"/>ſtes ſpouſe.</p>
+                     <p>When the Iſraelites were in capti<g ref="char:EOLhyphen"/>uitie at Babylon,<note place="margin">Ezec. chap. 11 ver. 15.16.</note> Gods Churche was in <hi>Chaldaea,</hi> as in a dungeon, albeit they which remained in Ieruſalem thought
+<pb facs="tcp:185171:42"/> otherwiſe. If Gods Church had beene meaſured by the outward ſhewe, it had been wide with them, which were then in captiuitie.</p>
+                     <p>
+                        <note place="margin">Cant. 6.</note>I confeſſe that Gods Churche is ſaide by Salomon to be faire as the Moone, &amp; pure as the Sonne. But it is ſo to mens eyes not in the time of perſecution, but in the time of y<hi rend="sup">e</hi> peace of the church, when as the order in Gods Church is very beau<g ref="char:EOLhyphen"/>tifull.</p>
+                     <p>
+                        <note place="margin">Eſay. 60.9.</note>When we reade in <hi>Eſay</hi> that the ſhips of Tharſis ſhall bring (to gods churche) ſonnes from farre, and their ſiluer &amp; their gold with them: We muſt not by and by dreame of a golden church, as the Iewes doe of a golden Meſſias: but the mea<g ref="char:EOLhyphen"/>ning is, that God will greatly aduaunce his Church, and ſet it out with excellent furniture. If they of Tharſis deſerue great commendation for bringing their owne ſiluer &amp; gold with them to Gods Church, I am ſure they deſerue very lit<g ref="char:EOLhyphen"/>tle, which by cropping the Churches maintenance, hinder the building of the ſpirituall temple. For can gods churche be built without ſkilfull maſons and car<g ref="char:EOLhyphen"/>penters,
+<pb facs="tcp:185171:42"/> I meane, able miniſters: and ca<g ref="char:cmbAbbrStroke">̄</g> they either prouide inſtrumentes for the framing &amp; ſetting vp of Almightie gods houſe, when they are kepte faſting from the Churches allowance? And is not this the true cauſe, why in many places of this noble lande, ſome ſuch open Gods booke in the body of the church, as would be goodly implements &amp; ornamentes in the Belfray. I will not rub this ſore any longer, &amp; I am very ſure that all whiche loue religion, do pray heartily for the re<g ref="char:EOLhyphen"/>dreſſe of this.</p>
+                  </div>
+                  <div type="part">
+                     <head>21 None, which are or haue been alients from the church of God, are to be admitted raſhly into it.</head>
+                     <p>If <hi>Rahab</hi> of <hi>Iericho</hi> and her compa<g ref="char:EOLhyphen"/>nie,<note place="margin">Ioſu. 6.</note> had been preſently admitted into the Iſraelites aſſemblie, their vncleanneſſe would haue been eaſily forgotten: but the putting of them apart for a time, without the hoſt of Iſrael, was of great force, both to make them aſhamed of their former behauiour, &amp; to eſteeme the companie of gods people afterward, a more excellent benefit.</p>
+                     <pb facs="tcp:185171:43"/>
+                     <p>
+                        <note place="margin">Acts. 9.</note>The not admitting of S. Paul at the firſt amongeſt the Diſciples, did teache him to prefer the loweſt place in Chriſts Church, before the higheſt roome in the Sinagogues of the Phariſees, and may teach vs not to open the Church dores o<g ref="char:EOLhyphen"/>uer haſtily to euery one without excepti<g ref="char:EOLhyphen"/>on.</p>
+                     <p>
+                        <note place="margin">Acts. 19.</note>Many, which beleeued (in <hi>Epheſus</hi>) came &amp; confeſſed, &amp; ſhewed their workes, before they were ioined to the Church.</p>
+                     <p>
+                        <note place="margin">1. Tim. chap. 3. ver. 6.</note>If no man may be admitted raſhly in<g ref="char:EOLhyphen"/>to Gods church, then no man may raſhly be ſet ouer Gods Church. Vnſeaſoned timber, will not ſerue for a groundeſell. Hee is not fit to be a Captaine, whiche cannot be accounted a ſouldier. No man may be allowed a Prophet, which hath not been the ſonne of a Prophet.</p>
+                  </div>
+                  <div type="part">
+                     <head>22 Gods Church may erre.</head>
+                     <p>To erre, is to goe out of that way which almightie God hath preſcribed to vs in his holy worde.</p>
+                     <p>If the Church cannot erre, what nee<g ref="char:EOLhyphen"/>ded godly and learned Biſhops &amp; mini<g ref="char:EOLhyphen"/>ſters
+<pb facs="tcp:185171:43"/> to looke to the Lordes fielde, vine, and flocke.</p>
+                     <p>The familie of <hi>Sem</hi> was gods church:<note place="margin">Gen. 11.</note> but idolatrie entred into that familie. I confeſſe,<note place="margin">Gen. 9.</note> that a ſinguler bleſſing was gi<g ref="char:EOLhyphen"/>uen to <hi>Sem,</hi> but his poſteritie coulde not be keept within their compaſſe.</p>
+                     <p>If the Churche was any where in <hi>E<g ref="char:EOLhyphen"/>ſaies</hi> time, it was amongeſt the Iewes. But the Prophet ſaith, that the Prieſt and the Prophet were not only corrupt in their manners,<note place="margin">Eſay. 28. verſ. 7. Eze. 8.</note> but that they fayled in viſion, and ſtumbled in iudgement.</p>
+                     <p>The flouriſhing Churches of <hi>Aſia, Grecia, Affrica,</hi> which had the precious treaſure of Gods woorde plentifully a<g ref="char:EOLhyphen"/>mongſt them, are nowe ſtripped of Chri<g ref="char:EOLhyphen"/>ſtian religion.</p>
+                     <p>The Church erred before, and vnder the lawe, and in the time of grace: bee<g ref="char:EOLhyphen"/>fore the lawe,<note place="margin">Gen. 3. Exod. 32.</note> for <hi>Adam</hi> and <hi>Eue</hi> erred in Paradiſe. Vnder the lawe, for Aaron and the Iſraelites erred fouly in making a golden calfe. In the time of grace, for the Churches of <hi>Corinth, Galatia,</hi>
+                        <note place="margin">Acts. 21. ver. 20.</note> and the Primitiue Church in <hi>Iudea,</hi> er<g ref="char:EOLhyphen"/>red about the obſeruation of <hi>Moſes</hi> law,
+<pb facs="tcp:185171:44"/> and otherwiſe.</p>
+                     <p>The Churche in <hi>Auguſtines</hi> and <hi>Cy<g ref="char:EOLhyphen"/>prians</hi> time did giue the holy Supper to infants,<note place="margin">Chap. 6. ver. 3</note> grounding vpon the place of Saint Iohn: but it was a groſſe er<g ref="char:EOLhyphen"/>ror.</p>
+                     <p>Let no man deceiue you by anye meanes:<note place="margin">2. Theſ. 2.</note> (for that day ſhall not come) except there come a departing firſt. This Apoſtaſie or departing (which Paule ſpeaketh of) is not in one or two Chur<g ref="char:EOLhyphen"/>ches, but euen in the body of the whole vi<g ref="char:EOLhyphen"/>ſible Church. The holy ghoſte did ſo propheſie.</p>
+                     <p>Ieſus Chriſt is the head of the church, as of one body. This head is vnto the Churche, as reaſon vnto man, ſo farre foorth as the deſire of man obeyeth rea<g ref="char:EOLhyphen"/>ſon, and the body of the Church, the head of the Church, it is wel with man &amp; with the Church.</p>
+                     <p>The Church is as a Moone, whiche hath no light but from Chriſte the ſonne thereof. When ſhee looketh towards him, ſhee is bright and cleare: the more ſhee turneth away from him, the leſſe
+<pb facs="tcp:185171:44"/> brightneſſe ſhe hath.</p>
+                     <p>
+                        <hi>Obiection.</hi>
+                     </p>
+                     <p>The Churche is the piller of trueth,<note place="margin">1. Tim. 3.15.</note> therefore it cannot erre.</p>
+                     <p>
+                        <hi>Anſwere</hi>
+                     </p>
+                     <p>The argument followeth not, and S. Paules meaning is, that Gods truth is preſerued in the Churche by the mini<g ref="char:EOLhyphen"/>ſterie of the worde: the reaſon of this my anſwere, is ſet downe in theſe wordes, he gaue ſome (to be) Apoſtles, &amp; ſome pro<g ref="char:EOLhyphen"/>phets, &amp; ſome Euangeliſtes, &amp; ſome Pa<g ref="char:EOLhyphen"/>ſtors and Doctors, for the gathering to<g ref="char:EOLhyphen"/>gether of y<hi rend="sup">e</hi> ſaints, for the work of the mi<g ref="char:EOLhyphen"/>niſterie, for the edification of the body of Chriſt, that we hencefoorth bee no more children wauering and carried aboute with euery winde of Doctrine.<note place="margin">Ephe. 4. ver. 11.12.14.</note>
+                     </p>
+                     <p>
+                        <hi>Obiection.</hi>
+                     </p>
+                     <p>The ſpirit of truth will lead you into all truth: therfore the church cannot erre.<note place="margin">Iohn. 16.13</note>
+                     </p>
+                     <p>
+                        <hi>Anſwere.</hi>
+                     </p>
+                     <p>If followeth not: It is certaine that Chriſtes Diſciples, which heard his hea<g ref="char:EOLhyphen"/>uenly Sermons, were perſuaded very hardly, that the Meſſias ſhoulde die,
+<pb facs="tcp:185171:45"/> and they dreamed of a ſtately kingdome in the worlde both before his death (as the ſonnes of <hi>Zebedeus</hi>) and after Chri<g ref="char:EOLhyphen"/>ſtes reſurrection (as all the Apoſtles.<note place="margin">Mat. 20. Acts. 1.</note>) Our Sauiour Chriſt: leaſt they ſhoulde bee diſcouraged, becauſe they were not then able to beare &amp; digeſt his ſpeeches, comforts them in this ſort, the ſpirite of truth will leade you into all truth: as if hee ſhoulde ſay, your capacitie is weake and my ſpeeches will not enter into you, but be of good cheere, it ſhall not bee ſo with you alwaies, the ſpirit of truth ſhall open your vnderſtanding, &amp; lead you in<g ref="char:EOLhyphen"/>to all truth.</p>
+                     <p>When we reade or heare that the ſpi<g ref="char:EOLhyphen"/>rit will leade vs into all truth, wee muſte not thinke that either the ſpirit doth lead vs without the word,<note place="margin">Eſay 59. 1. Theſ. 5.</note> as the Anabaptiſts teach, (for the ſpirite &amp; the worde cannot bee ſeuered) or that the Church not brin<g ref="char:EOLhyphen"/>ging the worde for her warrant, is, in matters of faith,<note place="margin">Cypr. de lapſu</note> to bee beleeued, for hee is not ioyned to the Church, which is ſe<g ref="char:EOLhyphen"/>uered from the Goſpel.</p>
+                  </div>
+                  <div type="part">
+                     <pb facs="tcp:185171:45"/>
+                     <head>23 The Church is not perfect in this worlde.</head>
+                     <p>THe Goſpel is a ſiue or fanne,<note place="margin">Matth. 3.</note> which ſeparateth the chaffe from the corne. If chaffe were not mingled with the corne, this fanne, (that is, the preaching of the Goſpell) were needles.</p>
+                     <p>The knowledge of the Church is but in part:<note place="margin">1. Cor. 13. Matth. 6.</note> and the whole Churche deſires pardon of their ſinnes.</p>
+                     <p>The Church ſhall not be perfit before the laſt day, but then it ſhall bee.<note place="margin">Apoc. cap. 21. ver. 10.11.12</note> Which thing, that S. <hi>Iohn</hi> might ſet before our eyes, hee remembreth that the eſtate of the heauenly <hi>Ieruſalem,</hi> ſhalbe moſt glo<g ref="char:EOLhyphen"/>rious after the ende of the worlde.</p>
+                     <p>If wee conſider the viſible Church in her owne bodie, it is farre from perfecti<g ref="char:EOLhyphen"/>on. For it is compared to a fielde,<note place="margin">Math. chap. 13</note> where<g ref="char:EOLhyphen"/>in is Wheate and Tares, and to a drawe net, wherein are good and bad fiſhes.</p>
+                     <p>That Church, which bragges of per<g ref="char:EOLhyphen"/>fection in this worlde, is a Phariſaicall Church.<note place="margin">Aug. epi. 48.</note> Such Churches were and are the Churches of the <hi>Donatiſtes, Noua<g ref="char:EOLhyphen"/>tians,</hi>
+                        <pb facs="tcp:185171:46"/> and <hi>Anabaptiſtes.</hi>
+                     </p>
+                     <p>
+                        <hi>Obiection.</hi>
+                     </p>
+                     <p>Whoſoeuer is borne of God, ſinneth not. 1. <hi>Iohn.</hi> 3. <hi>ver.</hi> 6.9.</p>
+                     <p>
+                        <hi>Anſweare.</hi>
+                     </p>
+                     <p>By not ſinning, S. <hi>Iohn</hi> meaneth, that the regenerate ſerue not ſinne, and that ſinne raigneth not in them, becauſe they withdrawe them ſelues by Gods aſ<g ref="char:EOLhyphen"/>ſiſtaunce from ſinne, and withall their heartes do giue them ſelues to holines of life. It is very true that the faithfull doe ſinne, that is to ſay, can not liue ſo holily, but that they offende the Maieſtie of god: ſo did <hi>Aaron, Noe, Daniel, Iob, Barna<g ref="char:EOLhyphen"/>bas, Peter,</hi> and the virgin <hi>Marie,</hi> other<g ref="char:EOLhyphen"/>wiſe ſhee had not needed a Sauiour. The iuſt ma<g ref="char:cmbAbbrStroke">̄</g> falleth ſeuen times.<note place="margin">Prou. 24. 1. Iohn cha. 1</note> If we ſay, we haue no ſinne, wee deceiue ourſelues, &amp;c.</p>
+                     <p>
+                        <hi>Obiection.</hi>
+                     </p>
+                     <p>Chriſt loued the Church, &amp; gaue himſelfe for it, that he might ſanctifie it,<note place="margin">Epheſ. 5.25.26 27.</note> &amp; clenſe it by y<hi rend="sup">e</hi> waſhing of water through the word, that he might make it vnto him ſelf a glo<g ref="char:EOLunhyphen"/>rious Church, not hauing ſpotte or wrin<g ref="char:EOLhyphen"/>kle or any ſuch thinge.</p>
+                     <p>
+                        <hi>Anſweare.</hi>
+                     </p>
+                     <p>This Argument was vſed of the <hi>Pe<g ref="char:EOLhyphen"/>lagians</hi>
+                        <pb facs="tcp:185171:46"/> in <hi>Auguſtines</hi> time:<note place="margin">Epiſt. 50. &amp; 57. Idem lib. 1. retract. cap. 19 &amp; li. 2. cap. 18</note> but <hi>Auguſt.</hi> ſaith, that the freedom of the Church fro<g ref="char:cmbAbbrStroke">̄</g> all ſtaines is not in this worlde, but in the world to come. Beſids, it is one thing to conſider y<hi rend="sup">e</hi> church in it ſelf, another thing to conſider it in Chriſt. The Church in it ſelf (whether we reſpect eche me<g ref="char:cmbAbbrStroke">̄</g>ber of it ſeuerally, or all the members of it ioynt<g ref="char:EOLhyphen"/>ly) haue many ſpottes and wrinkles: o<g ref="char:EOLhyphen"/>therwiſe it were not true, that they are ſaued by the grace of our Lorde Ieſus Chriſt, as the Apoſtle <hi>Peter</hi> ſaith. The Church conſidered in Chriſte,<note place="margin">Act. 15. ver. 11 1. Iohn 1. Apoc. 1. 1. Cor. 6. 1. Cor. 1.</note> may bee ſaid to be without ſpot, becauſe it is wa<g ref="char:EOLhyphen"/>ſhed and purged by the blood of Chriſte: and without wrinkle, becauſe it is clothed with the righteouſneſſe of Chriſte by the imputation of whoſe righteouſneſſe, wee are at Gods handes both abſolued and ſa<g ref="char:EOLhyphen"/>nctified.</p>
+                  </div>
+                  <div type="part">
+                     <head>
+                        <hi>24</hi> The Church of Rome hath, and may erre.</head>
+                     <p>BEholde the bountifulneſſe and ſeue<g ref="char:EOLhyphen"/>ritie of GOD: towardes them,<note place="margin">Rom. cha. 11. verſe 22.</note> whiche haue fallen, ſeuerytye:
+<pb facs="tcp:185171:47"/> but towardes thee, bountifulnes, if thou continue in (his) bountifulnes: or elſe thou alſo ſhalt be cut off. If the Churche of Rome could not erre, why ſhould <hi>Paul</hi> write this.</p>
+                     <p>
+                        <note place="margin">Lib. 1. cont. Marcionem.</note>
+                        <hi>Tertullian</hi> makes mention of alters de<g ref="char:EOLhyphen"/>dicated to vnknowen gods (which he cal<g ref="char:EOLhyphen"/>leth the Idolatrie of the <hi>Athenians</hi>) and to vncertaine gods, (which he calleth the ſuperſtition of the <hi>Romanes.</hi>)</p>
+                     <p>
+                        <hi>Hormiſda</hi> a Biſhoppe of Rome, in a writing of his to the Biſhops of <hi>Spayne,</hi> maketh this matter very cleare: The ſum of his wordes is this, Dearely beloued, let vs pray without ceaſing, that we may cleaue ſoundly vnto Chriſt, and not for<g ref="char:EOLhyphen"/>ſake him, leaſt we be iuſtly forſake<g ref="char:cmbAbbrStroke">̄</g> of him.</p>
+                     <p>If Saint <hi>Pauls</hi> doctrine in the Epi<g ref="char:EOLhyphen"/>ſtle to the <hi>Romaines</hi> be ſounde (whereof none that feare God, doth make any que<g ref="char:EOLhyphen"/>ſtion) then the popiſhe Church, whiche holdes many thinges diſagreeing from that Epiſtle, is not free from errour. Let the queſtions of iuſtification, election, freewill, obedience to the Magiſtrate, be conſidered. Beſids, their ſpoyling Chriſt of his prieſthood, and Gods people of the
+<pb facs="tcp:185171:47"/> cup in the Lordes ſupper, their tranſub<g ref="char:EOLhyphen"/>ſtantiation, &amp; a number of groſſe abſurdi<g ref="char:EOLhyphen"/>ties, which they hold, are manifeſt demon<g ref="char:EOLhyphen"/>ſtrations of the erring of the Popiſhe Church.</p>
+                  </div>
+                  <div type="part">
+                     <head>25 They may not bee accompted Schiſmatikes, which forſake the Church of Rome.</head>
+                     <p>If any Church giue ouer the trueth of Gods religion, wee muſt forſake that Church, that we be not infected with that leproſie, and yet wee may not be accomp<g ref="char:EOLhyphen"/>ted Schiſmatikes, for men are then Schiſmatikes, when they depart from the true Church and doctrine, not when they returne from errour to trueth.</p>
+                     <p>He is a Schiſmatike, whiche is the cauſe of ſchiſme, and not hee which begin<g ref="char:EOLhyphen"/>neth the ſeparation: euen like as he, whi<g ref="char:EOLhyphen"/>che denieth the lawe, is the cauſe of the proceſſe, and not he which firſt began.</p>
+                     <p>The Proteſtantes haue not forſaken <hi>Sio<g ref="char:cmbAbbrStroke">̄</g>,</hi> but <hi>Babylon,</hi> not <hi>Bethel,</hi> but <hi>Betha<g ref="char:EOLhyphen"/>uen:</hi> they haue not erected Alter againſt Alter,<note place="margin">Aug. epi. 162.</note> as <hi>Ieroboam</hi> and the <hi>Donatiſtes</hi>
+                        <pb facs="tcp:185171:48"/> did, but they haue caſt the Alter of <hi>Da<g ref="char:EOLhyphen"/>maſcus</hi> out of the Lordes houſe, and haue reſtored the true worſhip of God.</p>
+                  </div>
+                  <div type="part">
+                     <head>26 The Church muſt bee built vpon the word of God.</head>
+                     <p>
+                        <note place="margin">Ephe. chap. 2. verſe 19.20.</note>NOwe therefore yee are no more ſtraungers and forreiners: but Ci<g ref="char:EOLhyphen"/>tizens with the Saintes, and of the houſ<g ref="char:EOLhyphen"/>holde of GOD: and are built vpon the foundations of the Apoſtles and Pro<g ref="char:EOLhyphen"/>phetes, Ieſus Chriſte him ſelfe beeyng the chiefe corner ſtone, &amp;c.</p>
+                     <p>If the doctrine of the Prophetes and Apoſtles be the foundation of the church, howe can the Church ſtande, if the doc<g ref="char:EOLhyphen"/>trine be remoued? and howe can the doc<g ref="char:EOLhyphen"/>trine continue without ſounde teachers? and what hart canne they haue to teache, when they want maintenance? Shal they which bee noble mens, and gentlemens gardiners, huntſmen, be bountifully pro<g ref="char:EOLhyphen"/>uided for of their Lordes and Maiſters charge, and ſhall not they, which are fitte to attende vpon the Lords vine, field, gar<g ref="char:EOLhyphen"/>den, orchard, haue allowance of the chur<g ref="char:EOLhyphen"/>ches
+<pb facs="tcp:185171:48"/> charge? If this ſoare be not looked vnto, many ſtudents of diuinitie muſt of force betake them ſelues to ſome other courſe. for men muſt liue, and to go a beg<g ref="char:EOLhyphen"/>ging, is a point next the worſe, and a very vnfit occupation for a learned ſtudent in diuinitie.</p>
+                     <p>The Goſpell and ſpirite of life,<note place="margin">Iren. lib. 3. cap. 1.11.</note> is the foundation and piller of the Church.</p>
+                     <p>They which wil build Gods Churche without the foundation of the word, build with vntempered morter: for Gods word is the life of the Church.</p>
+                     <p>
+                        <hi>Obiection.</hi>
+                     </p>
+                     <p>The Church was before the worde of God: therefore it is not built vpon the word of God.</p>
+                     <p>
+                        <hi>Anſwere.</hi>
+                     </p>
+                     <p>The argument followes not. I confeſſe, that Gods Church in the beginning (as for example, <hi>Adam, Abel, Enos, Noe, Se<g ref="char:cmbAbbrStroke">̄</g>, Abraham,</hi> and many other of Gods chil<g ref="char:EOLhyphen"/>dren) was, before Gods word was put in writing, but Gods church was not before Gods word. For if the Church be an aſ<g ref="char:EOLhyphen"/>ſemblie of y<hi rend="sup">e</hi> faithful, &amp; y<hi rend="sup">e</hi> me<g ref="char:cmbAbbrStroke">̄</g> ca<g ref="char:cmbAbbrStroke">̄</g>not be cal<g ref="char:EOLhyphen"/>led faithful w<hi rend="sup">t</hi>out faith, &amp; that faith cannot
+<pb facs="tcp:185171:49"/> conſiſt without the woorde of God: it is a neceſſarie conſequent, that Gods woorde was before Gods Church.</p>
+                     <p>
+                        <note place="margin">Gene. 4. Heb. 11.</note>
+                        <hi>Abell</hi> ſacrificed vnto almightie God by faith. Therefore Gods expreſſe woorde was his direction, for faith hath relation to no other thing. The difference of cleane and vncleane beaſts is mentioned in <hi>Geneſis</hi> before the flood,<note place="margin">Gece. 7.</note> but this diffe<g ref="char:EOLhyphen"/>rence could not bee vnderſtanded but by the voyce of almightie God. <hi>Noe</hi> after his comming out of the Arke, offered a burnt offering: this ſacrifice of <hi>Noe,</hi> pleaſed God: therefore it is a good con<g ref="char:EOLhyphen"/>ſequent that <hi>Noe</hi> had Gods worde to di<g ref="char:EOLhyphen"/>rect him: for no wilworſhippe did euer pleaſe God.</p>
+                     <p>
+                        <hi>Obiection.</hi>
+                     </p>
+                     <p>
+                        <note place="margin">1. Tim. 3. verſe 15.</note>The Church is the piller and grounde of trueth, therefore the worde is not the foundation of the Church.</p>
+                     <p>
+                        <hi>Anſwere.</hi>
+                     </p>
+                     <p>It followes not, and the Church is therefore called the piller and grounde of the trueth, becauſe amongſt men it vp<g ref="char:EOLhyphen"/>holdeth and retayneth Gods trueth.</p>
+                  </div>
+                  <div type="part">
+                     <pb facs="tcp:185171:49"/>
+                     <head>17 The Church is knowne by the worde of God.</head>
+                     <p>SEarch the Scriptures,<note place="margin">Iohn. chap. 5. ver. 39.</note> they teſtifie of mee, ſaith Chriſt. We knowe Chriſt by the Scriptures, therefore we knowe the Church by the Scriptures. This con<g ref="char:EOLhyphen"/>ſequent is very good, and is framed thus by <hi>Auguſtine.</hi>
+                     </p>
+                     <p>In the Scriptures wee haue learned Chriſt,<note place="margin">Epiſt. 166.</note> (ſaith <hi>Auguſtine</hi>) in the Scrip<g ref="char:EOLhyphen"/>tures we haue learned the Church. And a little after: where we haue knowne Chriſt, (meaning in the ſcriptures) there we haue knowen the Church: which ſen<g ref="char:EOLhyphen"/>tence he repeateth very often in that epi<g ref="char:EOLhyphen"/>ſtle.</p>
+                     <p>The <hi>Donatiſts</hi> ſaid, that Chriſts church remained only in <hi>Africke,</hi>
+                        <note place="margin">Epiſt. 166.</note> but <hi>Auguſtine</hi> telles them, that their warrant is not ta<g ref="char:EOLhyphen"/>ken out of the lawe, or the Prophete, or the Pſalme, or the Apoſtle, or Euange<g ref="char:EOLhyphen"/>liſt, but out of their owne heartes, and ca<g ref="char:EOLhyphen"/>uils of their progenitors: by which words it is euident, that the Churche is knowne and muſt be ſhewed by the worde of God.</p>
+                     <p>We ſeeke the Church in the holy ſcrip<g ref="char:EOLhyphen"/>tures,<note place="margin">Aug. devnita Eccle. cap. 2. &amp; Epiſt. 48.</note> and in the ſame ſcriptures we doe
+<pb facs="tcp:185171:50"/> manifeſtly knowe the Church.</p>
+                  </div>
+                  <div type="part">
+                     <head>28 Ieſus Chriſt alone, is the foun<g ref="char:EOLhyphen"/>dation of his Church.</head>
+                     <p>OTher foundation can no man laye, then that which is laid,<note place="margin">
+                           <hi>1.</hi> Cor. 3. ver. 11.</note> which is Ie<g ref="char:EOLhyphen"/>ſus Chriſt.</p>
+                     <p>Thus ſaith the Lord God, behold I wil lay in Sion a ſtone,<note place="margin">Eſai. 28. ver. 16 1. Pet. chap. 2 verſe <hi>6.</hi>
+                        </note> a tried ſtone, a preci<g ref="char:EOLhyphen"/>ous corner ſtone, a ſure foundation, that is, Ieſus Chriſt: ſo doth the Apoſtle <hi>Peter</hi> expounde it.</p>
+                     <p>Yee are built vpon the foundation of the Apoſtles &amp; Prophetes,<note place="margin">Ephe. chap. <hi>2.</hi> ver. <hi>20.</hi>
+                        </note> Ieſus Chriſt himſelf being the chief corner ſtone, that is, the foundation of the Church.</p>
+                     <p>Vpon this rocke, I will builde my Church:<note place="margin">Mat. chap. <hi>16.</hi> verſe 18. Aug. lib. 1. retract. cap. 12</note> By this word (rocke) Chriſt vn<g ref="char:EOLhyphen"/>derſtandeth himſelfe, who<g ref="char:cmbAbbrStroke">̄</g> 
+                        <hi>Peter</hi> co<g ref="char:cmbAbbrStroke">̄</g>feſſed.</p>
+                     <p>The Apoſtle <hi>Peter</hi> cannot be the foun<g ref="char:EOLhyphen"/>dation of the Church, for <hi>Peter</hi> was mor<g ref="char:EOLhyphen"/>tall, and the foundation of Gods Church muſt be immortall.</p>
+                  </div>
+                  <div type="part">
+                     <head>29 What the Catholike Church is.</head>
+                     <p>The catholike Church is y<hi rend="sup">e</hi> number of all
+<pb facs="tcp:185171:50"/> Gods elect, which haue been from the be<g ref="char:EOLhyphen"/>ginning of the world, and are nowe pre<g ref="char:EOLhyphen"/>ſently in the worlde, and ſhalbe vntill the ende of the world</p>
+                  </div>
+                  <div type="part">
+                     <head>30 The Catholik Church is not vi<g ref="char:EOLhyphen"/>ſible.</head>
+                     <p>AL the elect, whether they be in earth or in heauen, do belo<g ref="char:cmbAbbrStroke">̄</g>g to the Catho<g ref="char:EOLhyphen"/>like Church: But all theſe ca<g ref="char:cmbAbbrStroke">̄</g>not be ſeen of vs.</p>
+                     <p>Chriſt when he vttered theſe woordes (vpo<g ref="char:cmbAbbrStroke">̄</g> this rock I will build my Church) did meane that Church,<note place="margin">Mat. <hi>16.</hi>
+                        </note> which ſhould be vnto the end of the world: but that church is not viſible,</p>
+                     <p>If the Catholike Church were now vi<g ref="char:EOLhyphen"/>ſible, it were vnproperly ſaid in the creed, I beleeue the Catholike Church: for inuiſible thinges are beleeued, and not thoſe which are ſeene. They therefore, which ſay, that the Catholike Churche is viſible, eyther beleeue not that, whiche they confeſſe in the Creede, or ſpeake o<g ref="char:EOLhyphen"/>therwiſe then they beleeue, whiche is a groſſe abſurditie.</p>
+                     <p>I confeſſe that the particuler churches
+<pb facs="tcp:185171:51"/> of Corinth, Epheſus, Theſſalonica were viſible in <hi>Paules</hi> time, not onely, becauſe they of whome theſe Churches conſiſted, were viſible, but becauſe of the order and externall forme of thoſe Churches, which order and externall forme are the cauſe, why the Churches are viſible.<note place="margin">1. King. 19.</note>
+                     </p>
+                     <p>The ſeuen thouſand (of whome Al<g ref="char:EOLhyphen"/>mightie God ſpake to <hi>Elias</hi>) albeit they were viſible in that they were men, yet they were not in the viſible Church: o<g ref="char:EOLhyphen"/>therwiſe <hi>Elias</hi> had ſeen them.</p>
+                     <p>A fewe of Gods elect are called the Church, but yet the inuiſible Church: not becauſe,<note place="margin">2. Tim. cha. 2 verſe 19.</note> we do not ſee the elect, but be<g ref="char:EOLhyphen"/>cauſe wee do not deſcerne with our eyes, who are Gods elect: for GOD alone knoweth, who be his.</p>
+                  </div>
+                  <trailer>FINIS.</trailer>
+               </div>
+            </body>
+         </text>
+         <text xml:lang="eng">
+            <front>
+               <div type="title_page">
+                  <pb facs="tcp:185171:51"/>
+                  <p>
+                     <g ref="char:leaf">❧</g> A godly and ſhorte <hi>Treatiſe, againſt the</hi> foule and groſſe ſinne of oppreſſion. <hi>Written by Robert Some.</hi>
+                  </p>
+                  <q>Oppeſſion maketh a wiſe man madde. <hi>Eccleſiaſtes, <bibl>chap. 7. verſe 9.</bibl>
+                     </hi>
+                  </q>
+               </div>
+               <div type="to_the_reader">
+                  <pb facs="tcp:185171:52"/>
+                  <head>To the Reader.</head>
+                  <p>IT hath pleaſed an Engliſhe Papiſte, to giue out in print, that the Church of Rome, doth both teach, and require ac<g ref="char:EOLhyphen"/>tuall reſtitution, and that our Church doth neither. His ſpeech of vs is verie ſlaunderous, &amp; my treatiſe againſt op<g ref="char:EOLhyphen"/>preſſion, is argumentes inough to con<g ref="char:EOLhyphen"/>fute him. If they of Rome, teach and re<g ref="char:EOLhyphen"/>quire actuall reſtitution, it is no woorke of ſupererogatio<g ref="char:cmbAbbrStroke">̄</g>: they do no more but their duties. If wee ſhoulde faile in this cleare point, we deſerue great condem<g ref="char:EOLhyphen"/>nation at almightie Gods hands. I con<g ref="char:EOLhyphen"/>feſſe that a man is good (and therefore iuſtified in Gods ſight) before he doth good workes: but with all I ſet downe this, that good works doe followe him that is truely iuſtified, and that ſuch as haue oppreſſed, or iniuried any man, ſhal not be pardoned at Gods handes, vnleſſe they make actuall reſtitution, if they bee able to doe it. If any require proofe of this, I refer him to this Trea<g ref="char:EOLhyphen"/>tiſe of mine, againſt oppreſſion.</p>
+               </div>
+               <div type="table_of_contents">
+                  <pb facs="tcp:185171:52"/>
+                  <head>
+                     <hi>A table of ſuch pointes as</hi> are contayned in this Trea<g ref="char:EOLhyphen"/>tiſe.</head>
+                  <list>
+                     <item>1 What oppreſſion is.</item>
+                     <item>2 It is not lawefull for any man to op<g ref="char:EOLhyphen"/>preſſe another.</item>
+                     <item>3 They which haue done wrong vnto, or oppreſſed any, muſt make actuall re<g ref="char:EOLhyphen"/>ſtitution.</item>
+                     <item>4 It is the dutie of the Magiſtrate, to deliuer the oppreſſed out of the handes of the oppreſſour.</item>
+                     <item>5 The Magiſtrate looſeth nothing by deliuering the oppreſſed.</item>
+                     <item>6 Oppreſſours, ſhall bee grieuouſly puni<g ref="char:EOLhyphen"/>ſhed.</item>
+                     <item>7 Oppreſſours, haue no religion in them.</item>
+                  </list>
+               </div>
+            </front>
+            <body>
+               <div type="treatise">
+                  <pb facs="tcp:185171:53"/>
+                  <head>A godly Treatiſe againſt the foule and groſſe ſinne of oppreſſion.</head>
+                  <p>
+                     <hi>Queſtion.</hi>
+                  </p>
+                  <p>VVHat is Oppreſſion.</p>
+                  <p>
+                     <hi>Anſwere.</hi>
+                  </p>
+                  <p>It is vniuſt deailng, vſed of the migh<g ref="char:EOLhyphen"/>tier, either by violence, colour of lawe, or any other cunning dealing, againſt ſuch as are not able to withſtande them. The ground of this definition, is contei<g ref="char:EOLhyphen"/>ned in theſe places of ſcripture. <hi>Micheas. chap. 2. verſe 1.2. 1. Theſ. chap. 4. verſ. 6.</hi>
+                  </p>
+                  <p>It is not lawfull for any man to op<g ref="char:EOLhyphen"/>preſſe another.</p>
+                  <p>Giue vs this day our dayly bread. <hi>Mat. chap. 6. verſe 11.</hi> Euery chriſtian deſires God to giue dayly bread, (that is, all thinges neceſſarie for this life) both to him ſelfe, and to others: therefore no chriſtian is priuiledged, to ſpoile another of his neceſſarie food.</p>
+                  <p>If one of vs muſt pray for the good of another: one of vs may not pray vpon an other.<note place="margin">Eccle. chap. 34 verſe 23.</note> Hee that taketh away his neigh<g ref="char:EOLhyphen"/>bours liuing, is a murtherer.</p>
+                  <pb facs="tcp:185171:53"/>
+                  <p>Thou ſhalt not deſire thy neighbours houſe, his fielde, &amp;c. <hi>Deut. 5.21.</hi> If wee may not deſire his houſe, or land, then we may not ſpoile him of his houſe, or land,<note place="margin">Mich. chap. 2.1.2.</note> or incloſe that ground, wherby the poore either by right are, or by right ought to be relieued.</p>
+                  <p>If thou meete thine enemies oxe, or his Aſſe going aſtray, thou ſhalt bring him to him againe. If thou ſee thy ene<g ref="char:EOLhyphen"/>mies Aſſe lying vnder his burden, wilte thou ceaſe to helpe him? thou ſhalt helpe him vp with it againe. <hi>Exod. 23.4.5.</hi> Al<g ref="char:EOLhyphen"/>mightie God commaundeth vs to deale wel with our enemies Aſſe, therefore we may not by vndoing our neighbour, or ſpoyling him of any part of his lande or goods, make him an Aſſe and ſend him a begging.</p>
+                  <p>Hee that oppreſſeth the poore, repro<g ref="char:EOLhyphen"/>ueth him that made him, &amp;c.<note place="margin">Pro. chap. 14. ver. 31.</note> It is a groſſe ſin to reproue the maieſtie of God, there<g ref="char:EOLhyphen"/>fore it is a groſſe ſinne to oppreſſe the poore.</p>
+                  <p>It was one of the ſinnes of <hi>Sodom</hi> not to reache out the hande to the poore <hi>Ezech. 16.49.</hi> If it be a great ſin, not to
+<pb facs="tcp:185171:54"/> releeue the poore, it is a very groſſe ſinne to ſpoyle the poore. The bread of the needefull,<note place="margin">Eccle. 34.22.</note> is the life of the poore: he that defraudeth him thereof is a murtherer.</p>
+                  <p>There is a writte in England which beareth this name, <hi>Ne iniuſtè vexes,</hi> that is to ſay, vexe not any man vniuſtly: This is a godly lawe, and is deriued fro<g ref="char:cmbAbbrStroke">̄</g> the lawe of God, which forbiddeth and condemneth oppreſſion.</p>
+                  <p>There are certaine beggers, which of purpoſe keepe their legges ſore to gette money by it: If they are iuſtly miſliked, which gaine by their owne ſore legges, what deſerue they to be thought of, whi<g ref="char:EOLhyphen"/>che gaine by other mens ſore legs?</p>
+                  <p>When thou ſelleſt ought to thy neigh<g ref="char:EOLhyphen"/>bour, or buieſt at thy neighbours hande, yee ſhall not oppreſſe one another <hi>Leuit. 25. ver. 14.</hi> This is the will of God, that no man oppreſſe or defraude his brother in any matter. <hi>1. Theſ. 4.6.</hi> Therefore men of trade may not gaine by litle mea<g ref="char:EOLhyphen"/>ſures, falſe weights, and falſe ſpeeches &amp; othes, nor any mightie men, may gaine by cunning dealing, by colour of lawe, or by vſing any violence whatſoeuer.</p>
+                  <div type="part">
+                     <pb facs="tcp:185171:54"/>
+                     <head>3 They which haue done wrong vnto, or oppreſſed any muſt make actuall re<g ref="char:EOLhyphen"/>ſtitution.</head>
+                     <p>GOd ſaith thus vnto Moſes: ſpeake vnto the children of Iſrael, when a man or woman ſhall commit a<g ref="char:EOLhyphen"/>ny ſin, that men commit, &amp; tranſ<g ref="char:EOLhyphen"/>greſſe againſt the Lorde, when that per<g ref="char:EOLhyphen"/>ſon ſhall treſpaſſe, then they ſhall confeſſe their ſinne which they haue done, &amp; ſhall reſtore y<hi rend="sup">e</hi> damage therof w<hi rend="sup">t</hi> his principal, &amp; put the fift part of it more thereto, and ſhall giue it vnto him againſt whom hee hath treſpaſſed. But if the man haue no kinſman, to whom hee ſhould reſtore the dammage, the dammage ſhalbe reſtored to the Lord, for the Prieſts vſe, &amp;c. <hi>Num. 5. ver. 6.7.8.</hi> Wee are taught in this place, to whom this actual reſtitutio<g ref="char:cmbAbbrStroke">̄</g> muſt bee made, euen to him whom we haue in<g ref="char:EOLhyphen"/>iuried: if he be dead, we muſt reſtore it to his kinſman: if he haue no kinſman aliue, actuall reſtitution muſt be made to Al<g ref="char:EOLhyphen"/>mightie God, for the Prieſtes vſe, and in our time for the poores vſe.</p>
+                     <pb facs="tcp:185171:55"/>
+                     <p>
+                        <note place="margin">Iud. chap. 17. ver. 2.3.</note>Michah robbed his mother of xi. hun<g ref="char:EOLhyphen"/>dred ſhekels of ſiluer: his mother did not knowe that he had it, but he had remorce of that ſinne, and made actuall reſtituti<g ref="char:EOLhyphen"/>on.</p>
+                     <p>Samuel ſaith thus of himſelfe: Whoſe Oxe haue I taken? or whoſe Aſſe haue I taken? or whom haue I done wrong to? or whom haue I hurt? or of whoſe hands haue I receiued any bribe,<note place="margin">1. Sam. 12,</note> to blinde my eyes therewith, and I will reſtore it you, &amp;c. It is certaine that Samuel did not deale either corruptly or vniuſtly in his office: if he had, he would haue made actuall reſtitution.</p>
+                     <p>
+                        <note place="margin">Luke. 19.</note>Zacheus was ſometimes very diſor<g ref="char:EOLhyphen"/>dered in his life, it pleaſed our Sauiour Chriſt to be a good God vnto him, and to lodge in his houſe: <hi>Zacheus</hi> hauing feeling of his former wants vttered theſe wordes: If I haue taken from any man by forged cauillation, I reſtore him foure folde. If <hi>Zacheus</hi> of <hi>Iericho,</hi> after his conuerſion, was content to reſtore foure folde, it is a good conſequent y<hi rend="sup">t</hi> they haue little touch of ſinne, and little ſenſe of re<g ref="char:EOLhyphen"/>ligion, which will not reſtore the princi<g ref="char:EOLhyphen"/>pall.</p>
+                     <pb facs="tcp:185171:55"/>
+                     <p>
+                        <hi>Queſtion.</hi>
+                     </p>
+                     <p>If a man haue deceiued, robbed or op<g ref="char:EOLhyphen"/>preſſed other men, ſhall hee bee par<g ref="char:EOLhyphen"/>doned at Gods hands, if he make not ac<g ref="char:EOLhyphen"/>tuall reſtitution?</p>
+                     <p>
+                        <hi>Anſwere.</hi>
+                     </p>
+                     <p>God will not pardon him, vnleſſe hee make actuall reſtitution, if he be able to doe it, my reaſons are theſe.</p>
+                     <p>If the wicked reſtore the pledge, and giue againe that hee had robbed hee ſhall ſurely liue &amp; not die, ſaith the Lord.<note place="margin">Chap. 18. ver. 12.13.</note> 
+                        <hi>Eze. 33.15.</hi> Therefore, it is a ſure conſequent, that he ſhall not liue eternally, which be<g ref="char:EOLhyphen"/>ing in caſe to make actuall reſtitution, doth it not accordingly.</p>
+                     <p>Is not this the faſting that I haue cho<g ref="char:EOLhyphen"/>ſen, to looſe the bands of wickedneſſe, to take off the heauie burdens, and to let the oppreſſed goe free, and that ye breake euery yoke, &amp;c. Then ſhalt thou call and the Lorde ſhall anſwere, thou ſhalt crie, &amp; hee ſhall ſay, heere I am, &amp;c. <hi>Eſay. 58.6.9.</hi> If the oppreſſour muſt let the oppreſſed goe free, he muſt make actuall reſtituti<g ref="char:EOLhyphen"/>on. If Almightie God will not heare the
+<pb facs="tcp:185171:56"/> prayer of the oppreſſour (vntill hee let the oppreſſed goe free) it is a neceſſarie con<g ref="char:EOLhyphen"/>ſequent that God will not pardon him.</p>
+                     <p>
+                        <note place="margin">Epiſt. 54.</note>
+                        <hi>Auguſtine,</hi> is very flat for this point: if men bee able to make actual reſtitutio<g ref="char:cmbAbbrStroke">̄</g> and doe it not, <hi>poenitentia non agitur, ſed fingitur:</hi> that is to ſay, their repentance is no repentance, and their ſinne ſhal not be pardoned, vntill actuall reſtitution bee made.</p>
+                     <p>
+                        <hi>Queſtion.</hi>
+                     </p>
+                     <p>If a man haue ſecretely either robbed or deceiued another, and is very willing to make reſtitution, but cannot do it with out ſome worldly danger, and diſgrace to him ſelfe, what muſte hee doe in this caſe?</p>
+                     <p>
+                        <hi>Anſwere.</hi>
+                     </p>
+                     <p>Let him ſende that which he hath ta<g ref="char:EOLhyphen"/>ken vniuſtly, by ſome truſtie meſſenger to him whome he hath wronged, and let his name bee concealed.</p>
+                     <p>
+                        <hi>Queſtion.</hi>
+                     </p>
+                     <p>If hee that hath taken vniuſtly from others, haue waſted all, and is not able to make reſtitution, what ſhall hee doe?</p>
+                     <p>
+                        <hi>Anſwere.</hi>
+                     </p>
+                     <p>Such a one, muſt deſire pardon very
+<pb facs="tcp:185171:56"/> humbly at Gods handes, and water the earth with his teares.</p>
+                  </div>
+                  <div type="part">
+                     <head>4 It is the dutie of the Magiſtrate to deliuer the oppreſſed out of the ha<g ref="char:cmbAbbrStroke">̄</g>d of the oppreſſour.</head>
+                     <p>EXecute iudgement in the morning (that is,<note place="margin">Iere. 21.12. Eſay. 1.17.</note> carefully and without de<g ref="char:EOLhyphen"/>lay) and deliuer the oppreſſed out of the hande of the oppreſſour, ſaith the Lorde, &amp;c. Seeke iudgement, relieue the op<g ref="char:EOLhyphen"/>preſſed, iudge the fatherleſſe, and defende the widdowe. Almightie God com<g ref="char:EOLhyphen"/>maundeth the Magiſtrates to execute iudgement in the morning, therfore they muſt vſe no delayes in doing iuſtice. God commaundeth the Magiſtrates to ſeeke iudgement, therefore in caſes of oppreſ<g ref="char:EOLhyphen"/>ſion, they muſt not ſtay till they bee cal<g ref="char:EOLhyphen"/>led for. God commendeth vnto the magiſtrates all that are oppreſſed, but ſpecially the fatherleſſe and widdowe, becauſe they wante the defence of their parents, and huſbandes, and euery man goeth ouer, where the hedge is lo<g ref="char:EOLhyphen"/>weſt.</p>
+                     <pb facs="tcp:185171:57"/>
+                     <p>
+                        <note place="margin">Ierem. 22.</note>Ioſias executed iudgement &amp; iuſtice, he iudged the cauſe of the afflicted and poore, (ſaithe the Lord) of <hi>Ioſias.</hi>
+                     </p>
+                     <p>Iob ſaith thus of himſelfe: I deliue<g ref="char:EOLhyphen"/>red the poore that cryed,<note place="margin">Iob. 29.</note> and the father<g ref="char:EOLhyphen"/>leſſe, and him that had none to helpe him, &amp;c. I put on iuſtice, &amp; it couered me: my iudgement was as a robe and a crowne, I was the eyes to the blinde, and I was the feete to the lame: I was a father vn<g ref="char:EOLunhyphen"/>to the poore, and when I knewe not the cauſe, I ſought it out diligently, I brake alſo the chawes of the vnrighteous man, and pluckt the pray out of his teeth, &amp;c. It appeareth by this, that Iob was a wor<g ref="char:EOLunhyphen"/>thie Magiſtrate: God ſend vs many ſuch as Iob was.</p>
+                     <p>The Sunamite (whoſe ſonne <hi>Elizeus</hi> raiſed to life) ſoiourned in the time of fa<g ref="char:EOLhyphen"/>mine ſeuen yeeres in the land of the <hi>Phi<g ref="char:EOLhyphen"/>liſtines:</hi> in her abſence, her landes and goods were vniuſtly entred vpon: at her returne, ſhe complained of the iniurie to <hi>Iehoram</hi> the king of Iſrael: <hi>Iehoram</hi> without delay commanded an Eunuch to reſtore her goods and landes vnto her.<note place="margin">2. Kings. 8.</note> Reſtore thou (ſaith <hi>Iehoram</hi>) all that are
+<pb facs="tcp:185171:57"/> hers, and al the fruites of her lands, ſince the day, ſhe left the land euen vntill this time.</p>
+                     <p>The Iewes in <hi>Nehemias</hi> time were greatly oppreſſed:<note place="margin">Nehe. chap. 5</note> 
+                        <hi>Nehemias</hi> was very an<g ref="char:EOLhyphen"/>gry with the princes and rulers which op<g ref="char:EOLhyphen"/>preſſed them, and ſaide vnto them: You lay burdens euery one vppon his brethren &amp;c. Reſtore vnto them this day their la<g ref="char:cmbAbbrStroke">̄</g>ds, their vineyards, their oliues and their houſes.</p>
+                     <p>If it be the magiſtrates duety to deliuer the oppreſſed,<note place="margin">Amos chap. 5 ver. 7. &amp; chap. 2. ver. 6.</note> they muſt take great heede y<hi rend="sup">t</hi> the<g ref="char:cmbAbbrStroke">̄</g>ſelues be neither principals nor acceſſa<g ref="char:EOLhyphen"/>ries in y<hi rend="sup">e</hi> ſin of oppreſſion. If they be guilty, iudgement ſhalbe turned into wormewood, and the righteous ſhalbee ſolde for ſiluer, &amp; y<hi rend="sup">e</hi> poore for ſhoes: that is to ſay, filthy bribes ſhall be more accounted of, then mens liues, which are moſt precious.</p>
+                  </div>
+                  <div type="part">
+                     <head>5 The Magiſtrate looſeth nothing by deliuering the oppreſſed.</head>
+                     <p>If he doe it with a ſingle heart (beſide the teſtimone of a good conſcience whiche is a continual feaſt) hee may aſſure himſelfe of Gods fauour &amp; bleſſing,<note place="margin">Prou. 15.</note> &amp; of the ſinguler li<g ref="char:EOLhyphen"/>king of all Gods people.</p>
+                     <p>
+                        <hi>Ioſias</hi> did eate &amp; drinke and proſper, whe<g ref="char:cmbAbbrStroke">̄</g> he executed iudgement &amp; iuſtice,<note place="margin">Ierem. 22.</note> whe<g ref="char:cmbAbbrStroke">̄</g> he iud<g ref="char:EOLhyphen"/>ged the cauſe of the afflicted, and the poore.</p>
+                     <pb facs="tcp:185171:58"/>
+                     <p>
+                        <note place="margin">Iob. 29</note>
+                        <hi>Iob</hi> deliuered the poore that cried, and the fatherles, and him that had none to help him, the bleſſing of him that was readye to periſh, came vpon him.</p>
+                     <p>Our ſoueraigne Lady Queene Eliza<g ref="char:EOLhyphen"/>beth hath dealt graciouſly with many poore ſuters at the Court, ſhe hath ſpoken comfor<g ref="char:EOLhyphen"/>tably to them, &amp; procured reſtitution accor<g ref="char:EOLhyphen"/>dingly. If it be no diſgrace to this noble Lady, which ſits vnder the cloth of Eſtate, to deliuer the oppreſſed, it is no blot to infe<g ref="char:EOLhyphen"/>riour magiſtrates if they doe the like. If y<hi rend="sup">e</hi> Prince pleaſes God highly, and winnes the hearts of her ſubiects ſoundly for relieuing the oppreſſed, it is very certayne, that thoſe Cormorants which grynd the faces of the poore are accurſed of God, &amp; looſe y<hi rend="sup">e</hi> hearts of his people. If the Prince ſitteth faſt in the ſeate of her kingdom for tendering the caſe of the oppreſſed, can they aſſure themſelues of ſitting quietly vnder their vines &amp; figge trees, which eate bread, baked with y<hi rend="sup">e</hi> teares of poore men? It is certaine, they ca<g ref="char:cmbAbbrStroke">̄</g>not: (for beſides the manifold curſes of God and his people) their own co<g ref="char:cmbAbbrStroke">̄</g>ſciences, doe mightely ſting them, and are enimies inough to tor<g ref="char:EOLhyphen"/>ment them.</p>
+                  </div>
+                  <div type="part">
+                     <head>6 Oppreſſors ſhalbe grieuouſly puniſhed.</head>
+                     <pb facs="tcp:185171:58"/>
+                     <p>CVrſed be he, that remoueth his neigh<g ref="char:EOLhyphen"/>bours marke, &amp; al y<hi rend="sup">e</hi> people ſhal ſay,<note place="margin">Deut. 27 ver. 17.</note> A<g ref="char:EOLhyphen"/>men. If they are accurſed by God, and his people, which remoue the marke of the la<g ref="char:cmbAbbrStroke">̄</g>d, they are more accurſed, which take awaye houſe and land.</p>
+                     <p>Oppreſſion maketh a wiſe man madde. Madnes is a grieuous puniſhment,<note place="margin">Eccle. chap. 7. ver. 9.</note> God pu<g ref="char:EOLunhyphen"/>niſheth Oppreſſion by madnes, one groſſe ſinne, by another.</p>
+                     <p>Ye haue builded houſes of hewe<g ref="char:cmbAbbrStroke">̄</g> ſtone, but ye ſhal not dwel in them:<note place="margin">Amos cap. 5.11.</note> yee haue planted pleaſant vineyards, but yee ſhal not drinke wine of the<g ref="char:cmbAbbrStroke">̄</g>. The reaſon of this, is ſet down by almighty God in the ſame verſe, in theſe words: Your treadings is vpon the poore, &amp; you take from him burdens of wheate, (y<hi rend="sup">t</hi> is to ſay, y<hi rend="sup">e</hi> neceſſary relief of himſelfe &amp; his fa<g ref="char:EOLhyphen"/>mily.) If y<hi rend="sup">e</hi> taking away of burde<g ref="char:cmbAbbrStroke">̄</g>s of wheat from the poore was ſo great a ſinne, the ta<g ref="char:EOLhyphen"/>king away of arable ground (which by til<g ref="char:EOLhyphen"/>lage and Gods bleſſing brings reliefe to a man and his family) is no little ſinne.</p>
+                     <p>They ſhal not mourne for him (ſaith God of <hi>Ioachim</hi> the king of <hi>Iuda</hi> whiche was a great oppreſſour) he ſhalbe buried as an aſſe is buried,<note place="margin">Iere. 22.</note> &amp; caſt foorth (as a carrio<g ref="char:cmbAbbrStroke">̄</g> aboue the grou<g ref="char:cmbAbbrStroke">̄</g>d) eue<g ref="char:cmbAbbrStroke">̄</g>, without the gates of <hi>Ieruſale<g ref="char:cmbAbbrStroke">̄</g>. Io<g ref="char:EOLunhyphen"/>achim</hi>
+                        <pb facs="tcp:185171:59"/> had cloſed himſelfe in <hi>Cedar,</hi> but that was not able to keepe Gods iudgementes from him.</p>
+                     <p>
+                        <note place="margin">Abac. chap. 2. ver. 11.</note>The ſtone ſhal cry out of the wal, and the beame out of the timber ſhall anſweare it, &amp;c. As if almighty God ſhoulde ſaye, rather the<g ref="char:cmbAbbrStroke">̄</g> the vile dealings of Oppreſſors ſhoulde not come to light, the ſtone ſhal cry out of the wall, I am built of blood &amp; iniquitie, &amp; the beame out of the timber ſhall anſwere, I am built likewiſe of bloud and iniquitye. If the ſtones and beames of oppreſſours houſes, giue in their euidence (like honeſt Iurates) againſt ſuch houſes, the Oppreſ<g ref="char:EOLhyphen"/>ſours muſt prepare the<g ref="char:cmbAbbrStroke">̄</g>ſelues, to heare this feareful ſentence pronounced, by the Lorde chiefe iuſtice of heauen,<note place="margin">Abac. cha. 2. ver. 12.</note> &amp; earth againſt the<g ref="char:cmbAbbrStroke">̄</g>: woe vnto him that buildeth a towne with blood, and erecteth a citie by iniquity.</p>
+                     <p>
+                        <note place="margin">Aug. Epiſt. 211.</note>They which oppreſſe others, doe more hurt the<g ref="char:cmbAbbrStroke">̄</g>ſelues, then thoſe who<g ref="char:cmbAbbrStroke">̄</g> they oppreſſe, the ſmart of the oppreſſed hath an end, the ſmart of the oppreſſour is euerlaſting: for he hea<g ref="char:EOLhyphen"/>peth vnto himſelfe wrath againſt the day of wrath,<note place="margin">Rom. chap. 2.</note> &amp; of the declaration of the iuſt iudge<g ref="char:EOLhyphen"/>ment of God.</p>
+                     <p>There were neuer any oppreſſours ſo ma<g ref="char:EOLhyphen"/>ny &amp; mighty, but at y<hi rend="sup">e</hi> length they were met
+<pb facs="tcp:185171:59"/> with. Gods iudgements haue feete of woll, but they haue armes of braſſe: It is longe ere God begin, but whe<g ref="char:cmbAbbrStroke">̄</g> he ſtrikes, he payes home. <hi>Eſay chap.</hi> 30, <hi>ver.</hi> 14.17.</p>
+                     <p>Woe vnto the<g ref="char:cmbAbbrStroke">̄</g> y<hi rend="sup">t</hi> imagine inquity,<note place="margin">Iere. 5.</note> &amp; work wickednes vpon their beds: whe<g ref="char:cmbAbbrStroke">̄</g> y<hi rend="sup">e</hi> morning is light, they practiſe it becauſe their hande hath power, &amp; they couet fields, &amp; take them by violence, and houſes, &amp; take them away: ſo they oppreſſe a ma<g ref="char:cmbAbbrStroke">̄</g> &amp; his houſe: eue<g ref="char:cmbAbbrStroke">̄</g> a ma<g ref="char:cmbAbbrStroke">̄</g> &amp; his heritage: therfore, thus ſaith y<hi rend="sup">e</hi> Lord, behold, againſt this family haue I deuiſed a plague, whereout yee ſhall not plucke your necks. <hi>Mich.</hi> 2. <hi>ver.</hi> 1.2.3. God be merciful vnto vs, and make vs afraide of his iudge<g ref="char:EOLhyphen"/>ments.</p>
+                  </div>
+                  <div type="part">
+                     <head>7 Oppreſſours haue no religion in them.</head>
+                     <p>GOD looked for iudgement, but beholde oppreſſion for righteouſnes,<note place="margin">Eſay chap. 5. ver. 7.</note> but behold a crying &amp;c. Iudgement &amp; righteouſnes are y<hi rend="sup">e</hi> true fruits of Gods religion, therfore op<g ref="char:EOLhyphen"/>preſſio<g ref="char:cmbAbbrStroke">̄</g> is no bra<g ref="char:cmbAbbrStroke">̄</g>ch of Gods religio<g ref="char:cmbAbbrStroke">̄</g>, &amp; conſe<g ref="char:EOLhyphen"/>quently, y<hi rend="sup">e</hi> oppreſſour is voyd of al religion. Doe not al the workers of iniquity know, that they eate vp my people (as) they eate
+<pb facs="tcp:185171:60"/> bread, they cal not vpo<g ref="char:cmbAbbrStroke">̄</g> y<hi rend="sup">e</hi> Lord? <hi>Pſal.</hi> 14. <hi>ver.</hi> 4. Oppreſſours call not vpon the Lord, ther<g ref="char:EOLhyphen"/>fore they are voyd of religion. for inuocatio<g ref="char:cmbAbbrStroke">̄</g> is a principal &amp; neceſſary fruit of religio<g ref="char:cmbAbbrStroke">̄</g>. If the oppreſſours ſay, y<hi rend="sup">t</hi> they ſtretch out their hands, &amp; make many prayers, I graunt they doe ſo, but almighty God giues the<g ref="char:cmbAbbrStroke">̄</g> this an<g ref="char:EOLhyphen"/>ſweare:<note place="margin">Eſay. chap. 1. ver. 15. Mich. chap. <hi>3.</hi> ver. 4.</note> I will hide mine eyes from you, I will not heare, for your handes are ful of blood.</p>
+                     <p>I will be a ſwift witneſſe againſt thoſe, that wrongfully keepe backe the hirelings wages, (and vexe) the widow, and fatherles, and oppreſſe the ſtranger,<note place="margin">Malach. chap. 3. ver. <hi>5.</hi>
+                        </note> and feare not me, ſaith the Lord of hoſts &amp;c. They which op<g ref="char:EOLhyphen"/>preſſe others feare not God, therfore they are voyd of religion. If they ſay they feare God, they deſerue no credite, becauſe their doings confute their ſpeech. A good tree, bringeeh foorth good fruites, and a iuſtifi<g ref="char:EOLhyphen"/>yng faith appeares by good workes.</p>
+                     <p>The former gouernours did burden the people,<note place="margin">Nehem. cha. <hi>5</hi> ver. 15.</note> and their ſeruantes bare rule ouer the people, but ſo did not I (ſaith <hi>Nehemi<g ref="char:EOLhyphen"/>as</hi>) becauſe of the feare of God. If <hi>Nehe<g ref="char:EOLhyphen"/>mias</hi> did neither oppreſſe, nor deale hardly, becauſe he feared God, it is manifeſt that oppreſſours feare not God, and therefore
+<pb facs="tcp:185171:60"/> are voyde of religion.</p>
+                     <p>When he (that is <hi>Ioſias</hi>) iudged the cauſe of the afflicted, and the poore,<note place="margin">Iere. 22. ver. 16.17.</note> hee proſpered, was not this, becauſe he knewe me ſaith the Lorde? But thine eyes and thine heart (he ſpeakes to <hi>Ioachim</hi> the king of <hi>Iuda</hi>) are but onely for thy couetouſnes, and for to ſhedde innocent blood, and for oppreſſion, &amp;c. <hi>Ioſias</hi> was a ſinguler de<g ref="char:EOLhyphen"/>fence to the oppreſſed, becauſe hee did knowe, and feare GOD: <hi>Ioachim</hi> was a notable oppreſſour, becauſe hee did nei<g ref="char:EOLhyphen"/>ther knowe, nor feare GOD, that is to ſay, becauſe he was voyde of Gods religi<g ref="char:EOLhyphen"/>on.</p>
+                     <p>This whiche I haue ſet downe a<g ref="char:EOLhyphen"/>gaynſt Oppreſſion, may ſerue for a chry<g ref="char:EOLhyphen"/>ſtall glaſſe for Oppreſſours to looke vp<g ref="char:EOLhyphen"/>pon, and to reforme themſelues by. If it woorke their good, it is happy for them: If it doe not, let them remember that dye they muſt, and that after death, they ſhall haue a fearefull iudgement. The beſt ad<g ref="char:EOLhyphen"/>uiſe that I can giue to them which are op<g ref="char:EOLhyphen"/>preſſed, is that they deſire the magiſtrate, to be their defe<g ref="char:cmbAbbrStroke">̄</g>ce. If by this ordinary meanes, they cannot compaſſe their owne, they muſt paciently beare iniuries, and commit
+<pb facs="tcp:185171:61"/> their cauſe to almighty GOD, who hath their flittinges in his regiſter,<note place="margin">Pſal. 56. ver. 8.</note> and their teares in his bottel, and wil be ſure<g ref="char:EOLhyphen"/>ly, but yet iuſtly, reuenged of their Oppreſſours.</p>
+                     <epigraph>
+                        <q>
+                           <g ref="char:V">Ʋ</g>eritas &amp; dulcis eſt &amp; amara. Quando dulcis eſt, parcit, quando amara, curat. <bibl>Aug. Epiſt. 211. ad Romulum.</bibl>
+                        </q>
+                     </epigraph>
+                  </div>
+               </div>
+            </body>
+            <back>
+               <div type="colophon">
+                  <p>
+                     <g ref="char:leaf">❧</g> Imprinted at <hi>Lon<g ref="char:EOLhyphen"/>don at the three Cranes in</hi> the Vintree by Thomas Daw<g ref="char:EOLhyphen"/>ſon for George Biſhop. 1583.</p>
+                  <pb facs="tcp:185171:61"/>
+               </div>
+            </back>
+         </text>
+      </group>
+   </text>
+</TEI>
